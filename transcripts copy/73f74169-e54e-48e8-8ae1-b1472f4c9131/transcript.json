@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-08-23 06:10:33",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Anish Abrol?"
+  },
+  {
+    "timestamp": "2025-08-23 06:10:33",
+    "speaker": "user",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "2025-08-23 06:10:33",
+    "speaker": "assistant",
+    "content": "Great! I"
+  },
+  {
+    "timestamp": "2025-08-23 06:10:37",
+    "speaker": "user",
+    "content": "आप कहां से बात कर रहे हैं?"
+  },
+  {
+    "timestamp": "2025-08-23 06:10:37",
+    "speaker": "assistant",
+    "content": "मैं Elevate-Now से बात कर रही हूँ, और मैं आपकी weight loss जर्नी में मदद करने के लिए यहाँ हूँ। आपने हमारे Nano plan को देखा था लेकिन payment"
+  }
+]

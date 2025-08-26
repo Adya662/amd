@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-08-08 03:40:13",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Mansi Mittal?"
+  },
+  {
+    "timestamp": "2025-08-08 03:40:39",
+    "speaker": "assistant",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "2025-08-08 03:40:44",
+    "speaker": "user",
+    "content": "Yes?"
+  },
+  {
+    "timestamp": "2025-08-08 03:40:44",
+    "speaker": "assistant",
+    "content": "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what"
+  }
+]

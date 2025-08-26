@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-08-24 04:29:01",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Prithvi jawahar?"
+  },
+  {
+    "timestamp": "2025-08-24 04:29:05",
+    "speaker": "user",
+    "content": "I just hung up the phone, don't call me on phone."
+  },
+  {
+    "timestamp": "2025-08-24 04:29:05",
+    "speaker": "assistant",
+    "content": "I understand. Is there anything specific you'd like to discuss about the Nano Plan or any questions I can"
+  },
+  {
+    "timestamp": "2025-08-24 04:29:15",
+    "speaker": "user",
+    "content": "No, nothing."
+  },
+  {
+    "timestamp": "2025-08-24 04:29:15",
+    "speaker": "assistant",
+    "content": "Alright, feel free to reach out if you have any questions in the future. Goodbye, and have a great day!"
+  }
+]

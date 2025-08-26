@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-08-19 06:17:49",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Mansi Rana?"
+  },
+  {
+    "timestamp": "2025-08-19 06:17:51",
+    "speaker": "user",
+    "content": "हम क्या बोल रहे हैं कि जरा बताना मेरे को"
+  },
+  {
+    "timestamp": "2025-08-19 06:17:51",
+    "speaker": "assistant",
+    "content": "मैं Priya बोल रही हूँ ElevateNow से। क्या मैं Mansi Rana से बात कर रही हूँ?"
+  }
+]

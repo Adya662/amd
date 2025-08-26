@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-08-11 03:37:19",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Dhara Khokhar?"
+  },
+  {
+    "timestamp": "2025-08-11 03:37:35",
+    "speaker": "assistant",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "2025-08-11 03:37:40",
+    "speaker": "user",
+    "content": "Hello? Yes,"
+  },
+  {
+    "timestamp": "2025-08-11 03:37:40",
+    "speaker": "assistant",
+    "content": "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-08-17 11:28:15",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Arun Arora Arora?"
+  },
+  {
+    "timestamp": "2025-08-17 11:28:17",
+    "speaker": "assistant",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "2025-08-17 11:28:23",
+    "speaker": "user",
+    "content": "Now No."
+  },
+  {
+    "timestamp": "2025-08-17 11:28:23",
+    "speaker": "assistant",
+    "content": "Thank you! We will call back Arun Arora Arora at a better time."
+  },
+  {
+    "timestamp": "2025-08-17 11:28:31",
+    "speaker": "user",
+    "content": "No no no no no"
+  }
+]

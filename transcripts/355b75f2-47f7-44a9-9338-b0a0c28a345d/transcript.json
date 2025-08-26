@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-08-14 08:47:23",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Manika?"
+  },
+  {
+    "timestamp": "2025-08-14 08:47:27",
+    "speaker": "user",
+    "content": "Please call me later."
+  },
+  {
+    "timestamp": "2025-08-14 08:47:27",
+    "speaker": "assistant",
+    "content": "I understand. Could you please let me know a preferred time for us to call you back?"
+  },
+  {
+    "timestamp": "2025-08-14 08:47:36",
+    "speaker": "user",
+    "content": "Seven PM,"
+  },
+  {
+    "timestamp": "2025-08-14 08:47:36",
+    "speaker": "assistant",
+    "content": "Great! I'll call you back at 7 PM. Thank you, and goodbye. Have a great day!"
+  }
+]

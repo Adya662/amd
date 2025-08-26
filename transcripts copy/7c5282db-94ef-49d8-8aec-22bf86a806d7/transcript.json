@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-08-21 07:40:03",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Dr. Gunjan Mandal?"
+  },
+  {
+    "timestamp": "2025-08-21 07:40:04",
+    "speaker": "user",
+    "content": "No."
+  },
+  {
+    "timestamp": "2025-08-21 07:40:04",
+    "speaker": "assistant",
+    "content": "Thank you! We will call back Dr. Gunjan Mandal at a better time. Goodbye, and have a great day!"
+  }
+]

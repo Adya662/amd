@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2025-08-11 04:44:59",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Mehnaz Shaikh?"
+  },
+  {
+    "timestamp": "2025-08-11 04:45:16",
+    "speaker": "assistant",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "2025-08-11 04:45:22",
+    "speaker": "user",
+    "content": "हां sir? Yes"
+  },
+  {
+    "timestamp": "2025-08-11 04:45:22",
+    "speaker": "assistant",
+    "content": "Great! I noticed you"
+  },
+  {
+    "timestamp": "2025-08-11 04:45:27",
+    "speaker": "user",
+    "content": "elevator ना हो"
+  },
+  {
+    "timestamp": "2025-08-11 04:45:27",
+    "speaker": "assistant",
+    "content": "I apologize"
+  },
+  {
+    "timestamp": "2025-08-11 04:45:29",
+    "speaker": "user",
+    "content": "Automatic corner."
+  },
+  {
+    "timestamp": "2025-08-11 04:45:29",
+    "speaker": "assistant",
+    "content": "I apologize, but I'm a weight loss agent. I cannot assist with elevator-related"
+  }
+]

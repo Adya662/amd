@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-08-22 12:38:20",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Poonam?"
+  },
+  {
+    "timestamp": "2025-08-22 12:38:22",
+    "speaker": "user",
+    "content": "Who is this"
+  },
+  {
+    "timestamp": "2025-08-22 12:38:22",
+    "speaker": "assistant",
+    "content": "I'm Priya from ElevateNow, here to discuss how our Nano Plan can support your weight loss journey. I noticed you were checking out our Nano Plan but didn't complete the payment. Was there anything specific that stopped you from starting your weight loss journey?"
+  }
+]

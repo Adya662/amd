@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-08-18 03:38:28",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am"
+  },
+  {
+    "timestamp": "2025-08-18 03:38:29",
+    "speaker": "user",
+    "content": "Hello? Hello?"
+  },
+  {
+    "timestamp": "2025-08-18 03:38:29",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from"
+  },
+  {
+    "timestamp": "2025-08-18 03:38:34",
+    "speaker": "user",
+    "content": "Hello hello"
+  },
+  {
+    "timestamp": "2025-08-18 03:38:34",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with dr.javedqureshi86@yahoo.com?"
+  },
+  {
+    "timestamp": "2025-08-18 03:38:43",
+    "speaker": "user",
+    "content": "hello नौ मामले में."
+  },
+  {
+    "timestamp": "2025-08-18 03:38:43",
+    "speaker": "assistant",
+    "content": "I"
+  }
+]

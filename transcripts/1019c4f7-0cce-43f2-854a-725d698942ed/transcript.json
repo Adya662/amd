@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-08-22 03:44:27",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Swati Sasmal?"
+  },
+  {
+    "timestamp": "2025-08-22 03:44:34",
+    "speaker": "user",
+    "content": "Hello. Yes you are but I am not interested to join now you know so please don't"
+  },
+  {
+    "timestamp": "2025-08-22 03:44:35",
+    "speaker": "user",
+    "content": "ask me."
+  },
+  {
+    "timestamp": "2025-08-22 03:44:36",
+    "speaker": "user",
+    "content": "Thank you."
+  }
+]

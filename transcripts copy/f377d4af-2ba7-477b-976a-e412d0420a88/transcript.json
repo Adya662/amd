@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-08-21 10:52:17",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Siby?"
+  },
+  {
+    "timestamp": "2025-08-21 10:52:19",
+    "speaker": "user",
+    "content": "Yes,"
+  },
+  {
+    "timestamp": "2025-08-21 10:52:19",
+    "speaker": "assistant",
+    "content": "Great! This is Priya from ElevateNow. We spoke last call about your interest in our weight management program, and I understand you had some concerns. Based on your BMI of 29.15, it's clear your body is sending signals about how"
+  }
+]

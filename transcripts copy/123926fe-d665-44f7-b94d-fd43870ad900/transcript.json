@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-08-24 03:32:59",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Vivek Gore?"
+  },
+  {
+    "timestamp": "2025-08-24 03:33:03",
+    "speaker": "user",
+    "content": "Can I call you back later? I'm meeting."
+  },
+  {
+    "timestamp": "2025-08-24 03:33:04",
+    "speaker": "user",
+    "content": "If you don't mind."
+  },
+  {
+    "timestamp": "2025-08-24 03:33:05",
+    "speaker": "assistant",
+    "content": "Of course, I understand. Can you let me know a preferred time when I can call you back?"
+  },
+  {
+    "timestamp": "2025-08-24 03:33:13",
+    "speaker": "user",
+    "content": "Say eleven o'clock"
+  },
+  {
+    "timestamp": "2025-08-24 03:33:13",
+    "speaker": "assistant",
+    "content": "I assume you mean eleven AM. I'll call you back at eleven AM. Thank you, and"
+  }
+]

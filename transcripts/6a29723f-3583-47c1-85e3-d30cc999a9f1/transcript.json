@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-08-25 10:26:47",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from"
+  },
+  {
+    "timestamp": "2025-08-25 10:26:54",
+    "speaker": "user",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "2025-08-25 10:26:54",
+    "speaker": "assistant",
+    "content": "Am I speaking with Veda Reddy?"
+  }
+]

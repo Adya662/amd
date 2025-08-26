@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-08-24 04:32:05",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from"
+  },
+  {
+    "timestamp": "2025-08-24 04:32:05",
+    "speaker": "user",
+    "content": "Call has been forwarded to"
+  },
+  {
+    "timestamp": "2025-08-24 04:32:05",
+    "speaker": "assistant",
+    "content": "It seems the call has gone to voicemail. I'll leave a message for you.\n\nHello, this is Priya from Elevate-Now. I noticed we haven't been able to connect yet, but I'm eager to discuss how our Nano Plan can help you achieve your weight loss goals. Let me know a convenient time for us to chat. Looking forward to helping"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-08-05 13:32:31",
+    "speaker": "assistant",
+    "content": "I'm experiencing technical difficulties. Please try again later."
+  },
+  {
+    "timestamp": "2025-08-05 13:32:31",
+    "speaker": "user",
+    "content": "Hello"
+  },
+  {
+    "timestamp": "2025-08-05 13:32:41",
+    "speaker": "assistant",
+    "content": "I'm experiencing technical difficulties. Please try again later."
+  }
+]

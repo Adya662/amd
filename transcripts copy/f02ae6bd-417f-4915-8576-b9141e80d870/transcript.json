@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-08-25 03:15:14",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from"
+  },
+  {
+    "timestamp": "2025-08-25 03:15:17",
+    "speaker": "user",
+    "content": "After an hour"
+  },
+  {
+    "timestamp": "2025-08-25 03:15:20",
+    "speaker": "user",
+    "content": "I'm driving at the moment."
+  },
+  {
+    "timestamp": "2025-08-25 03:15:20",
+    "speaker": "assistant",
+    "content": "No problem! I can call you back in an hour. Please drive safely. Goodbye, and"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-08-20 13:41:56",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with"
+  },
+  {
+    "timestamp": "2025-08-20 13:41:56",
+    "speaker": "user",
+    "content": "Hello? Hello"
+  },
+  {
+    "timestamp": "2025-08-20 13:41:56",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Hamid Siddiqui?"
+  },
+  {
+    "timestamp": "2025-08-20 13:42:03",
+    "speaker": "user",
+    "content": "Hello. नहीं नहीं"
+  },
+  {
+    "timestamp": "2025-08-20 13:42:03",
+    "speaker": "assistant",
+    "content": "Thank you! We will call back Hamid Siddiqui at a better time. Goodbye, and have a great day!"
+  }
+]

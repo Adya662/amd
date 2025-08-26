@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-08-20 13:15:52",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Simrit Verma?"
+  },
+  {
+    "timestamp": "2025-08-20 13:15:54",
+    "speaker": "user",
+    "content": "Hello. Yes."
+  },
+  {
+    "timestamp": "2025-08-20 13:15:54",
+    "speaker": "assistant",
+    "content": "Great! I noticed you"
+  }
+]

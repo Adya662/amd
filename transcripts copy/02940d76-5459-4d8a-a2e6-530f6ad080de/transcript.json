@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-08-24 14:58:24",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Ankur Arora?"
+  },
+  {
+    "timestamp": "2025-08-24 14:58:26",
+    "speaker": "user",
+    "content": "Hello,"
+  },
+  {
+    "timestamp": "2025-08-24 14:58:29",
+    "speaker": "user",
+    "content": "who is this?"
+  },
+  {
+    "timestamp": "2025-08-24 14:58:29",
+    "speaker": "assistant",
+    "content": "I'm Priya from ElevateNow, here to help you with your weight loss journey. We spoke last time about your interest in our weight"
+  }
+]

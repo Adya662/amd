@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-08-25 03:37:42",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Anuj Chandra?"
+  },
+  {
+    "timestamp": "2025-08-25 03:37:49",
+    "speaker": "user",
+    "content": "Hello?"
+  },
+  {
+    "timestamp": "2025-08-25 03:37:49",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Anuj Chandra?"
+  },
+  {
+    "timestamp": "2025-08-25 03:37:56",
+    "speaker": "user",
+    "content": "Yes?"
+  },
+  {
+    "timestamp": "2025-08-25 03:37:56",
+    "speaker": "assistant",
+    "content": "Great! I noticed you"
+  },
+  {
+    "timestamp": "2025-08-25 03:37:59",
+    "speaker": "user",
+    "content": "I am speaking on चंद्रा."
+  },
+  {
+    "timestamp": "2025-08-25 03:37:59",
+    "speaker": "assistant",
+    "content": "Thank you! We will call back Anuj Chandra at a better time. Goodbye, and have a great day."
+  }
+]

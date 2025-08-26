@@ -1,0 +1,19 @@
+empty transcripts 
+one line only transcript 
+
+I dont understand these calls do hang up, there has to be a diferent way I need to assess the dataset
+
+
+if voicemail:
+-> Your call has been forwarded to voicemail
+-> The person you are trying to reach is not available. At the turn? Please record your message. You have finished recording you may hang up.
+-> Your call has voicemail. The person you are trying to reach is not available. At the turn, please record your message."
+-> When you have finished recording, you may hang up."
+-> This call is now being recorded
+-> Forward forwarded to voicemail
+-> assistant speaking:I noticed you've been quiet. Are you still"
+
+
+I think we need to dig deep in calls greater than 30seconds
+
+filter out all the transcripts that have only one assistant utterance and are empty. 
