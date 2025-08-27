@@ -1,5 +1,8 @@
 # Fuzzy AMD - Call Transcript Machine Detection
 
+## Transcripts Data
+📁 **Access all call transcripts**: [Google Drive Folder](https://drive.google.com/drive/folders/1ZTIIWky4Qski1lkRmRdIImsZ7DtMR-xX?usp=drive_link)
+
 ## Overview
 
 Automated system to analyze call transcripts and identify machine-answered calls using fuzzy pattern matching. Designed for ElevateNow calls under 30 seconds.
