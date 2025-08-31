@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2025-08-22 07:30:12",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Aaditya Mehra?"
+  },
+  {
+    "timestamp": "2025-08-22 07:30:15",
+    "speaker": "user",
+    "content": "Yes?"
+  },
+  {
+    "timestamp": "2025-08-22 07:30:15",
+    "speaker": "assistant",
+    "content": "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are."
+  },
+  {
+    "timestamp": "2025-08-22 07:30:38",
+    "speaker": "user",
+    "content": "I am not sure if you all have the service in गोवा where I am at the Mumbai. And hence I did not continue with the payment."
+  },
+  {
+    "timestamp": "2025-08-22 07:30:38",
+    "speaker": "assistant",
+    "content": "We are serviceable for most parts of India, including Goa, as we have partnered with multiple lab test providers like Redcliff, Tata 1MG labs, Orange Health, Thyrocare, and Healthians. Would you like to proceed with the Nano Plan?"
+  },
+  {
+    "timestamp": "2025-08-22 07:31:01",
+    "speaker": "user",
+    "content": "In Morgan in गोवा"
+  },
+  {
+    "timestamp": "2025-08-22 07:31:01",
+    "speaker": "assistant",
+    "content": "Absolutely! We cover most areas in Goa, including Morgim. You can definitely proceed with the Nano Plan. Would you like me to assist you with the payment process?"
+  },
+  {
+    "timestamp": "2025-08-22 07:31:17",
+    "speaker": "user",
+    "content": "Alright,"
+  },
+  {
+    "timestamp": "2025-08-22 07:31:17",
+    "speaker": "assistant",
+    "content": "The Nano Plan costs Rupees one thousand seven hundred ninety-nine, and you can choose between two payment options. Would you like to pay the full amount upfront, or opt for a partial payment of Rupees four hundred ninety-nine now and the remaining Rupees one thousand three hundred ninety-nine at the time of blood sample collection? I can send you both payment links over WhatsApp."
+  },
+  {
+    "timestamp": "2025-08-22 07:31:57",
+    "speaker": "user",
+    "content": "Hello? Please send me the payment link."
+  }
+]
