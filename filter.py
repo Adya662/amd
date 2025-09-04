@@ -19,11 +19,11 @@ class FilteringStats:
 
 class FuzzyAMD:
     def __init__(self, s3_bucket=None, transcripts_prefix="transcripts", 
-                 transcripts_folder="transcripts", dict_path="dict.json", fuzzy_threshold=0.9):
+                 transcripts_folder="transcripts", dict_path="dict.json", fuzzy_threshold=0.9, s3_client=None):
         # S3 setup
         self.s3_bucket = s3_bucket
         self.transcripts_prefix = transcripts_prefix
-        self.s3_client = boto3.client('s3') if s3_bucket else None
+        self.s3_client = s3_client or (boto3.client('s3') if s3_bucket else None)
         
         # Keep existing local setup as fallback
         self.folder = Path(transcripts_folder) if not s3_bucket else None

@@ -1,0 +1,711 @@
+call_id,true_label,predicted_label,machine_probability,correct,user_text
+59277998-aa33-4dd2-953c-1ade0334e55f,0,0,0.03929903730750084,1,Hello? Yes?
+0d87980f-8b0d-4442-a834-b82113e7635f,0,0,0.03936561197042465,1,"Yes, Hello? I'm not interested right now."
+a36769a1-6ca9-4c68-b562-5702094c4cbb,0,0,0.03958364948630333,1,Hello? Hello yeah who is this?
+18da4cfa-3252-4e06-a10f-d3dddb014a55,0,0,0.03922078385949135,1,हां. Hello.
+e4417725-3320-402a-98fe-61779b16e625,0,0,0.043656736612319946,1,Yes yes. My BMI is thirty two. So yeah. I want to lower it down so I can pursue pregnancy and healthy next time
+bfdd5fa6-8e08-41fc-ae67-6fa950ada395,0,0,0.03910892456769943,1,Hello.
+00c387d9-b669-41b4-843c-50b9b0e4018e,1,1,0.96006840467453,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+ffe87371-b5eb-4cfa-a447-dec05193e51e,0,0,0.039570678025484085,1,"कल लेना, hello?"
+ff83ea3b-5baa-4ad6-b045-c8617eb2ee3b,0,0,0.04024728015065193,1,"Hello? Yes? Yes, I'm still there, I'm driving. Can I call you back? Three thirty PM?"
+e37a4459-1003-4d13-b09b-856f15f58d7b,0,0,0.03918766602873802,1,"Hello Yes, Not interested."
+923ff5d1-9de7-46ff-a8b1-708ef7c845c9,0,0,0.04417863115668297,1,"Yes, I'm suffering from liver losses and my I'm gaining weight Yes, No, no no. No. Payment plan. First of all, I was bright Yes I want to speak to some someone in person. Tomorrow around eleven thirty..."
+d4fbd456-b8f5-4972-9be9-d36aa8233bbc,1,1,0.9600834250450134,1,"Your is forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up."
+26d86868-09d4-48e5-95bc-d12483d30c4c,1,0,0.04466284438967705,0,"Hello. Yes. I am ready to drop to your executive when I get executive then इसमें नहीं, लेकिन मेरी बात आप ग्राहक सेवा अधिकारी से करवाइए. कभी भी? Sir तो follow up दीजिए बाप. I want you to hang my call. ..."
+9db5c8fc-d5b2-4761-a5d2-53068cdc69db,0,0,0.11679993569850922,1,"Hello. Yes, I would like to know about the program, how it how efficiently it helps me to lose the weight? Yes, I am, I am interested to know about the detail Yes. I would like to know more details be..."
+30b7bc2d-373d-4633-8a8c-4f58145567a5,0,0,0.039695702493190765,1,"Hello. Hello. Hello, hello, Hello. Hello. Hello."
+ba309d00-385b-43bf-842f-2dfb04e8f924,1,1,0.9600622057914734,1,"The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+95b52c10-0ceb-4d40-a544-b96e0d8c4636,0,0,0.039240650832653046,1,No.
+c3109458-7818-49d1-9f0c-c3ace6775e9d,0,0,0.03913234919309616,1,Yes?
+306d22a3-17b7-4ec9-8a5b-6bd1d6747483,1,1,0.9599708318710327,1,Your call has been forwarded to voicemail. The person you are trying to reach is not available. Please track. Message when you have. Finished recording your meeting up.
+4b3d101b-14e5-419b-8c72-bc8da9ceef98,1,1,0.9600539803504944,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+48aa46e6-4140-451d-b49d-62fc4368e1fd,0,0,0.03919890522956848,1,Hello? Hello
+68009832-11eb-4b27-a934-19aa51ea01a9,0,0,0.03975384682416916,1,Hi
+46bd9f12-fddb-4e6b-a811-7ffeda04350a,1,1,0.960024893283844,1,"Is forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+4ef475f8-d3fe-40db-8883-b614d4dc1094,0,0,0.03913804516196251,1,"Hello, hello"
+f305c5eb-45e9-4421-8bc1-f47e6909a1a6,0,0,0.03909281641244888,1,Hello. Hello
+4eb47abe-1b02-45fb-9dcd-c313edca5834,0,0,0.039349209517240524,1,Hello hello hello
+abdc0e83-77af-4630-bfb2-5482ea91bf7b,0,0,0.03924064338207245,1,No.
+1c7001f2-e336-4d3f-acac-76194bfa9f51,0,0,0.03918928653001785,1,Hello hello
+f07444a8-2a60-40fc-b635-05660fadc3a9,1,1,0.960090696811676,1,"The person you are trying to reach is not available. At the tone, please record your message. When you have finish recording, you may hang up."
+e6a58282-4652-4fc0-8687-76f2519203c5,1,1,0.9601005911827087,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+1bb0b84a-70aa-4fbf-8dae-ad8f7d7ceb54,0,0,0.03909281641244888,1,Hello. Hello
+4c8b00e1-7fc1-4fc0-8828-4bd40208f3c2,0,0,0.039340559393167496,1,Hello? Yeah?
+32a7ddd8-7256-4f18-b492-39377d79d3c9,0,0,0.0400373600423336,1,Your call has Hello.
+410bb74a-ca2c-41fb-948e-09af0747d66d,0,0,0.03917374461889267,1,Hello?
+455d0519-523d-4700-86a7-ae75b1f2dadf,0,0,0.03927815333008766,1,Hello? Hello hello
+7d42a119-1453-4a37-a302-8442efa8229f,1,1,0.9599988460540771,1,"Person you are trying to reach is not available. At the town, please record your message. You have finished recording, you may hang up."
+ff3b98c0-ab1a-415e-b24d-0be4451e06c9,0,0,0.03907901793718338,1,Hello. Yes?
+03d85353-a768-4226-b575-4888b6a54bfd,0,0,0.03913804516196251,1,"Hello, hello"
+11e9e0b2-bf44-4673-96e2-3d3a27ef89e5,1,0,0.08177617937326431,0,"Hello? Express का यह trending गाना तो आपने सुना ही होगा. Oh my god, अरे 01:02 out out के direction में, उमेश शुक्ला Please film में किसी mapo kit को ना लेकर एक नया French space, Davidा जुनेजा को launc..."
+4b16720d-d031-43a8-9b2b-e866131d22c3,0,1,0.7351207733154297,0,Don't disturb don't disturb. The person you are speaking with has put your call on hold. Please stay on the line.
+7791c282-e9b0-4c53-8ca2-1a82297419cd,0,0,0.03960583359003067,1,"Hello? No no, I don't need anything, thank you so much."
+82ffb9da-6c3f-459f-9618-1a3b46002f31,1,1,0.9600847363471985,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+8f7dd340-4b56-4013-a309-3e0c904179bb,0,0,0.03916894271969795,1,Yes.
+bc8a781c-3a70-4b46-a191-be8289959899,0,0,0.04547824710607529,1,"Yes, Hello yes I'm looking for weight loss. I had been trying to those weight from last four five years. Post pregnancy Hello. No. No, I haven't tried. Yeah, what all tests will be done? What blood te..."
+65183a09-66da-42e9-879c-dc8adba922c9,0,0,0.03934050351381302,1,Yes? Hello? Hello
+967cccd1-d42c-40a9-992a-ff474b77e1b3,0,0,0.10291288793087006,1,"Speaking, Yeah, I would like to reduce around 20 kilos from here. And I mean, it is nothing. It's just for general fitness and health, right? Want to reduce. Yes please go ahead. Yeah, please please l..."
+22cd84b4-3817-4138-857a-6d617fad8f3b,0,0,0.041553884744644165,1,हां बोलिए. मैं बोलूं
+dee42564-22ed-45e5-8366-0c7360166688,1,0,0.053628843277692795,0,"Yes? I have seen that you have got many changes in people's body. And I am very eager to reduce my weight. Yes, बेबाक for me for some time and then they did not. It the weight came back. But I am danc..."
+e568d35f-14c0-4d0b-bc55-df8378ef2fe6,0,0,0.04909130930900574,1,"Hello. Yes? I have completed payment My weight loss goals are 15 kg. Till January. No. No, fine I am ok with it. Please start with the plan. Full payment oh thank you."
+3f63e4cd-cf15-469b-a440-cfa5c4362c30,0,0,0.03914665803313255,1,Yes? Yes speaking.
+a3d74b00-c9a3-460b-bb1d-c593ab4e9d34,0,0,0.03919549286365509,1,"Yes,"
+e4cda817-b275-4478-b3ba-623bbb39e582,0,0,0.04124058410525322,1,हां बोलिए. Hello? हां yes बोलिए. Hello? Hello hello hello hello yes? ना not interest से मेरा.
+9582374f-c8d7-4da9-b936-73bfc3a8c7e0,1,1,0.9601023197174072,1,"Call The person you are trying to reach is not available at the tone please record your message. When you have finished recording, you may hang up."
+f0c77c69-87dc-4ebc-aac9-7ffc9a8b6f24,1,1,0.9600403308868408,1,Your forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+7a3dc2a2-2ffd-4f05-ac4d-3849ffbb1abf,0,0,0.05317873880267143,1,"Hello? Yes, Sow that on Facebook and I would like to know more information about it. Yes, It takes time to reduce but then I re bounce it. Yes, Yes, I would like to talk to somebody in person. Evening..."
+a8a7fcd3-03ca-4386-9df2-c4cd8a769ef5,1,1,0.9600685834884644,1,Call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn? Please record your message. When you have finished recording you may hang up.
+1261fe53-16e5-44b9-aadd-9759c27c6dba,0,0,0.03909281641244888,1,Hello. Hello
+6c4c0052-7709-4ff2-a1fd-51d477de325c,0,0,0.03913804516196251,1,"Hello, hello"
+74f4a4c0-c7cf-4245-ad3d-226b1f35706f,0,0,0.03910892456769943,1,Hello.
+8ee5482f-f938-4611-9fea-3788fff0533e,0,1,0.8361407518386841,0,"Hello, I'm busy at the moment. I'll call you back in some time. You may also message me. Thank you so much."
+00031634-197b-4088-bebe-29e162eb705a,0,0,0.03913234919309616,1,Yes?
+1c92cd3e-a6db-4951-b42d-43d857215825,0,0,0.04139219969511032,1,"बस हां जी. करवाया, but"
+326e46ba-0b3f-45d4-9b38-ae7fedaf7de1,1,1,0.9600646495819092,1,"Call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+eeecf0b9-fa06-4c0c-a4c0-df8d6ac71f71,1,1,0.9600391387939453,1,"Your call being forwarded to voice mail. The person you are trying to reach is not available at the tone, please record your message. When you have finished recording, you may hang up."
+0636f7e0-db4f-4be9-9d14-8c8cb7a348a6,0,0,0.03909766301512718,1,Hello. Hello.
+2eb1133f-3d0f-4121-844c-9fce7695525d,0,0,0.03910892456769943,1,Hello.
+37054a11-fc74-4973-9376-55f97fef05e1,0,0,0.04235672578215599,1,"Hello? Hello? Yes? I didn't get a payment link. Yes. Yes. No, I would like to get in touch next week. Next Monday. Morning. Morning."
+dfc0ba8f-7c93-4add-bef8-9ee82138bec4,1,1,0.8751693964004517,1,Person you are trying to reach is not available. At the turn? Hello.
+c061f013-af3d-43b3-b5e2-8c189ce83b62,1,1,0.9600666165351868,1,"The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+c8299268-a7b8-4ba8-bc87-30e052f54d49,0,0,0.041062481701374054,1,Please don't call me again.
+0cb8f517-0c37-4c84-b73f-293ba3a548f0,1,1,0.9600877165794373,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up."
+dbcc6913-5ade-4381-9a2a-eb383df4679f,0,0,0.04257631301879883,1,"Yes, I am busy, I will have would like to have a call sometime in these things. By around 8 in the evening. Yes,"
+593b479a-bdf8-49bb-a9e0-5ad65a65b511,0,0,0.03926834836602211,1,Hello. Hello. Hello Hello?
+3f5f731f-7f30-4f1d-923a-a8a4d65f5f4a,0,0,0.039561040699481964,1,यार
+d21f18a0-d5e6-41b2-9a15-b446f627b17c,0,0,0.039109934121370316,1,Hello. Right.
+a66e8358-050d-4f99-9e42-d4173b967b35,1,1,0.9600737690925598,1,"Your call forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up."
+7dac0368-5e1f-4a0a-9aa8-57b07bbf72b4,0,0,0.040721405297517776,1,हां sir? Yes elevator ना हो Automatic corner.
+90372bdc-7780-4d49-921a-764fda308ab5,0,0,0.03937119245529175,1,हां जी. Hello?
+89a5635c-b39d-4684-ac5a-0e332be00aa9,0,0,0.039133794605731964,1,"Yes, hello?"
+e4b358f1-f13e-4cb1-88d5-c217dd5f9bbd,0,0,0.03932066634297371,1,"Yes, Hello? Ok, Yes, No."
+4f4d906b-4b18-4a0c-abb4-715608aa4c8b,0,0,0.04013776406645775,1,"Ok, online ma'am. Yes? Wonderful and night."
+79e62557-a9ff-43a4-a1a5-7f0acbf66a3b,1,1,0.957901656627655,1,Call forwarded to voice mail. The person you are trying to reach is
+13176c30-407d-499b-b98c-d4288102b0ea,0,0,0.03910892456769943,1,Hello.
+63d5df01-8baa-444e-aa9c-b7612ef06639,0,0,0.039680927991867065,1,Yes I do not want to do it. Very expensive. Not interested.
+2c36848e-898a-46aa-8af0-253a9ea16b43,0,0,0.03976202756166458,1,"Yes, Hello? Please call me late लो."
+04925d82-13b8-4c44-a87b-5ff07dbf18aa,0,0,0.03927815333008766,1,Hello? Hello hello
+a1a6beca-5df5-4ab8-80ee-8d0fda1cae97,0,0,0.03919549286365509,1,"Yes,"
+f5f81627-b440-40c6-aa51-d93ac58be0de,1,1,0.9600522518157959,1,"Call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+49842af1-311e-4fc4-9ba6-be2288fe9d6b,0,0,0.039907947182655334,1,"Yes? I was just taking the advertisement. Yes, please. No thanks. No question."
+a39b655c-5daf-40a9-a29c-ac1b659b2b6b,0,0,0.03928830102086067,1,Yes? Hello?
+aa381367-b75d-4662-9289-b5d0b8b5e90d,1,1,0.960098922252655,1,"Your call is being voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+6af223c0-f561-4e72-b4e4-8f8e9fb957cf,1,1,0.9601005911827087,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+c6751b95-bbd5-4bdf-af22-dc196246d033,0,0,0.03909281641244888,1,Hello. Hello
+f4fe94cf-c64c-4554-bf85-65b9ac0291e6,0,0,0.039170775562524796,1,Hello. Hello hello
+d8a6efd9-6e20-46fc-a277-aa2a22422510,0,0,0.03973250091075897,1,"Yes? Hello, तो but you one minute Speak and finish it. No. Thank you."
+cae4b686-9246-4746-8641-fd28cdab6ca9,1,1,0.9600718021392822,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone please record your message. When you have finished recording, you may hang up."
+dc227f87-ecd9-43e3-9fd1-52204a728e65,0,0,0.04011542350053787,1,Yes. I've completed the payment.
+2e155728-9bb0-4248-952d-406088851494,0,0,0.04562701657414436,1,Hello गर्मी तोल होगा but यह बहुत पुराना अब बहन है ना बहुत तुमने. Hello?
+01d21ebf-f3ac-45d8-a9df-b6a9a5ba9b3b,0,0,0.04115142300724983,1,"Yes. नहीं, I've already made the payment. I've also cleared my the test."
+9cc93b6b-5c76-46ca-8693-e3ccc1187cbb,0,0,0.03917374461889267,1,Hello?
+24e90da1-84a6-4eef-9793-4fda357d43b9,0,0,0.03907901793718338,1,Hello. Yes?
+bc349720-efd5-4e5d-8f22-0d88c2069796,0,0,0.039355453103780746,1,"Hello? Hello? Yes,"
+f60db216-c0c7-4d43-abab-94712af14de5,0,0,0.03918928653001785,1,Hello hello
+3c2bc815-4ed8-4f68-9c05-6abd99d2c6c1,0,0,0.0393374040722847,1,Yes
+48b08b58-309f-4fd3-ba6f-d6e1e9f86c04,0,0,0.03929903730750084,1,Hello? Yes?
+9ee549aa-450d-4d70-9de9-af1bee670849,0,0,0.03923496603965759,1,Hello
+570db46c-625b-416b-8298-d13e61e57849,0,0,0.03992254287004471,1,Hello hello hello hello hello
+7fbe7043-ee6f-45c2-8106-f9f228b482ed,0,0,0.03953190892934799,1,Who is this? Hello?
+7d825761-d396-459f-8ca6-52734ad096a5,1,1,0.9600397944450378,1,"Your call has been forwarded to voicemail. Person you are trying to reach is not available. At the town, please record your message. You have finished recording, you may hang up."
+1177b99f-970d-4806-85fa-9d26f08589d6,0,0,0.03910892456769943,1,Hello.
+d1b51250-ed0f-45b0-9cfc-34cd449b970b,0,0,0.03929903730750084,1,Hello? Yes?
+a27dd93e-e73c-412a-ab29-428de15d8f46,0,0,0.03910892456769943,1,Hello.
+e587a494-f16d-45f1-aa97-26eed68a93c5,0,0,0.03918929770588875,1,Hello hello
+f90a1ebc-888f-458e-a133-138e27fc84a9,1,1,0.9600312113761902,1,"Call have been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+cc580214-1e32-496b-887e-665183b1c01f,0,0,0.03917374461889267,1,Hello?
+452f9181-cbac-4ec5-965c-4b5db93cbc9b,1,1,0.9600745439529419,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn? Please record your message. When you have finished recording, you may hang up."
+27c77ca6-9728-4843-94b0-2841253bc59e,0,0,0.03917374461889267,1,Hello?
+ca68a6bf-0312-47fd-aa0b-e4115fb99078,0,0,0.03909281641244888,1,Hello. Hello
+f0780e3c-5c1b-493a-a80f-68379294b991,0,0,0.03943207114934921,1,अरे
+e3e42b88-1a57-48c0-82bf-b8bc9b367c57,0,0,0.03917163610458374,1,"Hello. Hello Hello,"
+39c6e00c-8025-49d4-a997-fea955564bce,1,1,0.9600961804389954,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording, you may hang up."
+4f89ca55-c4f3-4952-985f-f6b04ce87aea,1,1,0.9600891470909119,1,"The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+72267e48-9e1c-49bf-b254-93515756f2c9,0,0,0.03907378762960434,1,Hello. Yes.
+16a35b2d-3315-42b7-9495-c9917a16f635,0,0,0.03965168446302414,1,"Yes? Hello I don't have money. No, not at least thank you."
+0c28138a-e0bb-461e-9a52-4f9296971202,1,1,0.960075855255127,1,"Your call has been forwarded to voicemail. The person you trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+c51f285c-d50c-477e-b727-7fc3ca34a473,0,0,0.03909281641244888,1,Hello. Hello
+52978136-6304-4729-b361-d091dce05961,0,0,0.03910892456769943,1,Hello.
+9a111235-ab48-496d-9753-8511fb8cc4ab,0,0,0.03974581137299538,1,"Lock who is this? Hello, हां hello. Yeah"
+4bb98470-b814-4daa-9cbc-87eb34c20a1f,1,1,0.9600847363471985,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+a3b912e4-b4d5-49c1-abc3-687ff27c48e1,0,0,0.03942766413092613,1,"Hello. Who is this? Hello, No."
+d2dae9c3-71dd-4c20-8318-9122807ccb70,0,0,0.039385586977005005,1,Yes? Tell me I'm still there.
+1c8cd4a0-d04f-4fbb-8240-ec56914d90e1,0,0,0.03949231281876564,1,चलो Hello
+f1da9d68-dfa2-49f1-845b-901b46da68f7,0,0,0.03917122259736061,1,Yeah. Hello
+57d98abd-9b94-4a90-bae3-278407675167,0,0,0.03910892456769943,1,Hello.
+72254204-6529-4ebf-9e5c-ddcaa5942e25,0,0,0.044341448694467545,1,Ya hello Can you ask some human being to call me? Tomorrow morning eleven thirty. Thanks
+11b28584-3073-49dd-a2b3-970a12e3d838,0,0,0.04086897149682045,1,"Hello, hello, Hello hello? Hello समय mobile रख रहे तो जीवन चलता."
+71477d4b-8bce-4611-aab1-2c86f6bb9908,0,0,0.04215022921562195,1,"Hello? Yes? I want to speak to a customer executive. तो लाओ देखिए Law से दस के beach. Ok,"
+5e22699b-fb6e-48e4-ac17-3dbe749d6847,0,0,0.03973311930894852,1,Hello. Hello hello hello Hello? Hello?
+e3b7f866-0d31-48c8-af79-a5b56990266c,0,0,0.04102731868624687,1,"हां जी, हां जी."
+dea45291-4ec4-4481-b20c-9933c73bdb95,1,1,0.9600666165351868,1,"The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+5cd02a13-71b4-4846-b17b-4536377fad37,0,0,0.07250194996595383,1,"Hello. Major जी बोल रहे थे अच्छा Hello क्या major बोलने वाले हमारे पास future लोगे. Yes tell me. यह अच्छा माल देता है बोल रहा है. फिरे यशकरण, यशकरण ने गीत गीत उधर ही ना वह Hello. दूसरा वह कर दिया अखबा..."
+4863cbc3-e1e8-4a03-87e3-7d086fdcf8dc,0,0,0.15471766889095306,1,"Hello. मैं weight loss बोल रहा to lose bed of a screen blood better. And I just said your plan I liked it, I am not sure if I want to go ahead with it because just the blood work that you are doing fo..."
+0c66ec6f-f49a-4f13-8ecc-94171739a23b,0,0,0.03971334919333458,1,Hello? No I don't need your help.
+42f0f600-a432-4355-87d5-1ce680fe83a2,0,0,0.03913234919309616,1,Yes?
+7fdc2ef0-3157-4c4f-993f-c1c3d054ab40,0,0,0.03918929770588875,1,Hello hello
+f07aa3c3-630b-4b0e-a291-abc4be0e8afb,0,0,0.03919549286365509,1,"Yes,"
+bc2275e0-610c-4995-a5f1-3f77d06e4efc,1,1,0.9601012468338013,1,"Your call voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+a473f45b-e83f-42fc-aef5-15eb111d2446,0,0,0.042953118681907654,1,You are speaking? I wanted a trial for three days.
+7376a0ca-d7ab-4149-9f62-bb2f1b6f96b0,0,0,0.03980063647031784,1,Hello yes? I have made the payment.
+c43d0681-1e1f-4a39-90eb-da9662454dc3,0,0,0.23767685890197754,1,"Hello. हां जी. Yes I want to lose the weight very quickly. And motivation was one of the reasons herbal life. Partial only partially. Yes Yes, Yes, Is this for the entire package or is it monthly paym..."
+4be9367e-7f4a-421f-850a-cdd8d42a131a,1,1,0.960112452507019,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording, you may hang up."
+83faa3d5-27c9-412e-9d65-d4cf34b94234,1,1,0.9600925445556641,1,Call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+3a3afc8d-9f0e-451e-92db-762815db0eb2,0,0,0.03923496603965759,1,Hello
+974d887a-58fe-4aa7-9db5-4041bcd89473,0,0,0.039134323596954346,1,Hello. Hello?
+a1f9744b-d587-4dcc-8dff-7f24f3b8119f,1,1,0.9600666165351868,1,Your call being forwarded to voice mail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+554335fa-68ed-41a1-8d0e-88e004fd74e3,0,0,0.05134831741452217,1,Hello. Page go ahead. Have made the payment already.
+c92e0dbb-4ed9-4f43-84ac-b321084667a2,1,1,0.96006840467453,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+76de3e5a-5130-4b0b-9a56-371e3ce86ca0,1,1,0.9600204825401306,1,"Person you are trying to reach is not available. At the tone? Please record your message. When you have finished recording, you may hang up."
+6a29723f-3583-47c1-85e3-d30cc999a9f1,0,0,0.03910892456769943,1,Hello.
+c2be319c-97ea-48c6-98ca-21df5cd7dd9e,0,0,0.03978535160422325,1,बोलिए.
+978bdc38-ad73-46af-a85f-f1206fb4dc67,0,0,0.03910892456769943,1,Hello.
+e0ddc5df-6b33-4e33-ad66-3e136a469b9a,0,0,0.039300765842199326,1,Hello. Hello hello hello
+9b78c3cc-852d-4a7b-88fa-805efe4b9d5f,0,0,0.04627460241317749,1,"हां, Yes. Hello? I am just thinking ठीक है call it and revert back to you. Revert back to you. Thank you."
+2b7270e2-bc8e-408c-89d4-48fe87805e7a,0,0,0.04151124879717827,1,"हां, हां जी. था. एक minute. एक minute"
+25461b07-14ab-468f-820e-c162a14e8ff0,0,0,0.03923496603965759,1,Hello
+fd903701-73fd-4ef0-b2a4-1678b5a7f5fc,0,0,0.03919549286365509,1,"Yes,"
+687e829b-6563-4d1f-b028-4ff0b23f21cf,0,0,0.03917374461889267,1,Hello?
+a54fe04e-9999-4e02-b0e2-12c3a21e081a,0,0,0.03918265551328659,1,"Hello, sorry?"
+936f3d45-85b2-45dc-b319-52ab645a8b75,0,0,0.03910892456769943,1,Hello.
+5fe2fd15-65fe-4253-959d-1229c16818c1,0,0,0.03913234919309616,1,Yes?
+ec1d97b2-76a4-423c-b2af-060d2b4a0a66,0,0,0.04248819500207901,1,"Your call तो hello, Yes, We check"
+6f29ee69-8862-44da-a309-215f0329f9b0,1,1,0.9600539803504944,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+c3930258-dc4c-4614-a533-d12d844e711c,1,1,0.9600622057914734,1,"The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+47a871e8-30ee-46a3-856b-003a20643bbd,0,0,0.03913234919309616,1,Yes?
+7da51dbf-373a-4d54-9816-c5609023b106,1,1,0.9601005911827087,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+a142edf2-c609-4b50-a865-e6a3766d5765,0,0,0.03968670964241028,1,Yes? Right now I am under KG and I want to work 30 KG.
+c77723fe-0cf5-46e1-be3d-1c5bb710e4e0,0,0,0.039543043822050095,1,"Hello? Who's this? Yeah, Yes yes."
+4e42cda1-566b-4e6b-9928-f82a084a68ab,0,0,0.03933222219347954,1,Yes so this what is this regarding?
+f76531bf-1e33-44bc-9912-3f79f364ef75,1,1,0.960019588470459,1,"साहस voice में आइए. Person you are trying to reach is not available. At the town, please record your message. You have finished recording, you may hang up."
+4ff5960e-2e86-426f-a941-dd0421c1d390,1,1,0.9600821137428284,1,"Call to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up."
+ad4cdb85-19d0-4bc9-ae44-dc8b7e31ac1d,0,0,0.03970874473452568,1,"Yes, यह फिर हां जी? बताओ Yes, Yes Proceed"
+dc1cf031-3fa2-4eff-a674-ea426c7ae7b4,0,0,0.03928615152835846,1,Hello? Yes? Yes
+d6ffbae3-a91f-4877-b15c-e486aa3908dd,0,0,0.03932177647948265,1,"Yeah,"
+93830231-71af-4102-ab2d-e9f12a70a72d,1,1,0.9600412249565125,1,"Your forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up."
+43716687-985c-4a8c-82c1-cc4d43ed974d,1,1,0.9601007103919983,1,The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+aac6626d-3b13-4097-a239-7b8a47d77cab,1,1,0.7167934775352478,1,"Yes? Ok. Ok. Pricing please. Ok, do we have any discounts available as this is much I mean like you know little had for me. Ok then I cannot purchase it right now. We will try something later. No no t..."
+4ff40f0e-336c-49ba-957c-a3c422f91364,0,0,0.03910892456769943,1,Hello.
+2da26a54-9c38-4eea-af20-e760f9834ae1,0,0,0.05159113556146622,1,"Yes? Hello? Hello I want to lose weight. Yes, No. Yes I have specific questions. It will be one time consultation. I'll be given a diet plan or my lifestyle correction how it will work? Can I do cash ..."
+688940c9-bd70-4635-b5a6-196557b5e7b0,0,0,0.039619095623493195,1,"Hello? Yes? Yes, you are speaking in विशिता."
+a14041a9-3f78-4084-bd54-01c374f74ca5,0,0,0.03969573229551315,1,Ok? Bye bye. Hello. Hello. Hello hello hello
+73737542-913b-4165-aae4-c139c1c07f9f,1,1,0.9600444436073303,1,Forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+e135fcd2-5b1a-4515-bc04-2b836f7dfc85,0,0,0.03998003527522087,1,"Yes. Ten kg weight loss. Yes, Yes, it worked for an. Yes. Yes. Yes, No, thank you."
+aa9edc1e-78cb-4d28-99b1-d5da09a85c79,0,0,0.03909281641244888,1,Hello. Hello
+980b53ff-4489-46e5-9e8a-abc1c79b6654,1,1,0.96006840467453,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+03d32546-3db0-49b6-a54c-137896d5e549,0,0,0.04024755582213402,1,Yes? Yes I need to talk to an expert and the plans. Monday twelve PM
+ec5c806d-5020-45b8-9dc7-0ca690df437a,1,1,0.9600747227668762,1,"Your call has forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+003a7c75-b8ee-4d71-a6c0-2c0a98c3de57,0,0,0.03983747959136963,1,Sir
+ae5897b4-89f1-4d56-9608-6fffe19778b6,0,0,0.04056676849722862,1,"Hello. Yes? Hello? हां, बस curious से I just seced touch. बस. हां, no I'll I'll think about it. I'll think about Thank you for call."
+d10267f3-0b1a-48d4-8a19-a44139c688d4,0,0,0.03919549286365509,1,"Yes,"
+0d52c708-7952-49d3-9dfa-a7ee13b9edf0,1,1,0.9600167274475098,1,Trying to reach is not available at the tone please record your message. When you have finished recording you may hang up.
+813c7c4b-6c55-4994-9819-09590a6e5c39,0,0,0.03923496603965759,1,Hello
+51cedbb1-56c6-4e87-bb6b-665c33fc40c9,0,0,0.04179713875055313,1,"Yes. Yeah, it aligneds with what I want to do, I I have a hormonal weight gain. So, it seems like something belly dress for me. Yes. Yes, Not yet."
+5081b398-ddcd-4f9b-958e-3796b52e27e7,1,1,0.9600539803504944,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+0c17d092-5aa3-49da-a927-d5c98d8b9494,0,0,0.039170775562524796,1,Hello. Hello hello
+aad3dd50-66c3-4751-89eb-6d36e4224e45,0,0,0.03911116346716881,1,"Hello,"
+f63c77ef-7fe9-4734-b0ba-fd65adef2e40,1,1,0.5887601971626282,1,"Hello. Hello Only thing which encouraged me was I am really a overweight person. And just I wanted to kiss start my journey of weight loss with with the help of elevate. Yeah, of course. No, I did it ..."
+bb8819c6-eb9c-434c-87bb-086a1caf2a31,0,0,0.039236780256032944,1,"Yes yes, Hello? Hello"
+e7a0e955-9e17-4f5c-9428-c45b10043a22,0,0,0.039628513157367706,1,Hello? Hello hi. एक Hello?
+1385cf2c-8426-4fd9-a0bc-742588c225d3,0,0,0.03955527022480965,1,AI call?
+42e63efd-3655-4ace-86f9-8968a6922518,1,1,0.9601005911827087,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+2fbfbee8-c714-4c45-b0fe-288a11bba23a,0,0,0.051241785287857056,1,"Hello? Yes. First I want to speak someone who is. I'll read the process of your last program. Yes. Yes, Yes, I am ready to share it but please arrange a callback from someone of your specialist Anytim..."
+2a6410ae-0faf-45af-82bf-2129413bcd76,0,0,0.03919549286365509,1,"Yes,"
+4ecd44b1-2943-405c-ad5c-e3f1787569df,0,1,0.7098409533500671,0,"अरे Yes? To check out what it is, but I am based in पूना, so I don't know whether how will the blood test be done and all didn't ask me my location and whatever. So, I have no idea whether it can be d..."
+321da915-91b9-4205-a121-172fe380248e,0,0,0.19334867596626282,1,"Hello. 20 kgs. Yes. Yeah. Yeah. Hello? What about further action? After this? Is it chargeable? What is the charges? Yeah, I can, but I want to know what will be the further expenses? What are the pro..."
+bdfc09f3-1668-4e64-a2e9-2e2923ced841,0,0,0.04030359908938408,1,"Yes? I think see. And there I did try, I lost twenty. Seven kg. But again it's bouncing back. Ok. Ok, I need some time. Thank you."
+c20b2221-7ead-40ca-8a7d-a0140648d5d1,0,0,0.03944253921508789,1,Hello. Yes? Hello? अरे यार
+262be0e8-6ba1-43c0-b131-d1544d6370d8,0,0,0.039265118539333344,1,Hello Hello? Hello
+483d6830-0ff2-487c-a96c-08bdff99aeae,0,0,0.03923496603965759,1,Hello
+8200bbea-7e8a-4201-9c99-ebbd0c837221,0,0,0.03911470249295235,1,Hello. Yeah.
+14a940e6-6bac-4c97-80a0-be2720a8459b,0,0,0.041350435465574265,1,"Hello. Yes? Yes I want to lose thirty kg. Yes, Yes, Yes I hope No, I understand that. क्या please tell me what is the price? Not right now please send me the link so that I can pay. To Thank you. No p..."
+ec542df6-f359-4a00-ade5-97feab173ed2,0,0,0.03910892456769943,1,Hello.
+7fd6b5f9-8b11-4085-b864-a16f92504e53,0,0,0.053076934069395065,1,"Hello. Hello. Hello Hello. Yeah, hello Hello? Yes, I will like to discuss. यार do experience. Hello? Hello बताइए, Yeah please. I do want to ask few questions. See basically with the report and things,..."
+9ffa0dd4-106a-4bf5-8af9-54f8590493ae,1,1,0.9600545167922974,1,"Call voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+0eb0ea19-c9be-424f-909e-c14b74d630fd,1,1,0.9600847363471985,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+ba1c8b07-bd73-414a-80ea-711681b0a6ac,0,0,0.07695801556110382,1,"Yeah? I didn't see Nano plan or anything. It was just loading details. Yes please. Ok. Can I take this next week sometime? Sure, your name is? Ok, Fourth of July? You can give me a call. Around 2. May..."
+08d5d265-b928-4dfa-adf0-6ebfb5a9dc29,0,0,0.039423756301403046,1,Hello? क्या?
+a7456c77-91b6-4ddb-95b5-817652b1976b,1,1,0.9601019024848938,1,Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+49fdecdb-a8b8-4dca-b144-54e0a92fbd57,0,0,0.039276011288166046,1,Yeah.
+16411594-4f77-4d89-9c7d-5e94ff7051bc,0,0,0.03919549286365509,1,"Yes,"
+18d919fd-89d7-481a-bcd7-24ccc870540d,1,1,0.9600875973701477,1,Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+89406a42-41f5-48aa-805c-88026d13b48f,0,0,0.03910892456769943,1,Hello.
+82cec4b9-4aac-497f-ac3b-28de49d91380,0,0,0.03936661407351494,1,"Yeah, speaking."
+e816ed64-5b29-4ba7-b3ab-e0b8c1f2fbb0,0,0,0.039300765842199326,1,Hello. Hello hello hello
+af575666-80eb-4fba-b480-077eddb2cd3f,0,0,0.039326153695583344,1,Hello. Hello? Hello?
+6eba80cd-f3ba-4f01-8e8b-89287aaedf7f,0,0,0.03910892456769943,1,Hello.
+3537db66-bb2b-4ff0-8395-b84ef325ec7e,0,0,0.03910892456769943,1,Hello.
+21bda791-2646-4bfc-85fe-b2e2137bb1db,0,0,0.03909281641244888,1,Hello. Hello
+bcca36f2-17ed-4ef9-97f7-1b2f64a00d94,0,0,0.050866905599832535,1,"Yeah, speaking. I want to reduce approximately 30 to 35 kg. Yeah. Ok. Yeah. Ok. So it will be the diet consultation and blood test I have to get it done or there will be a team who will be taking care..."
+02995379-f74f-483d-ae33-b18a780060de,0,0,0.03911096602678299,1,"Hello. Yeah,"
+a7c300f8-de44-4bd8-b538-206192d9f0f3,0,0,0.04000399634242058,1,"आना Hello, Yes ma'am Your AI"
+ef87b20f-2198-47ef-b26d-e6089dcb74e7,1,1,0.9600991606712341,1,"Your call The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+e6fecb74-e7c8-44fc-9790-1d1a5cb72e56,0,0,0.03919890522956848,1,Hello? Hello
+7b4d5e8c-4fcb-4dc9-a906-5285a0385e67,0,0,0.03967515006661415,1,Yes? Hello? I just wanted to see what you guys would do.
+92f95ad6-f586-46db-bf8c-9e22048e8a24,0,0,0.03923496603965759,1,Hello
+e698455a-1566-4a7d-a456-9e2be6bf239a,1,1,0.9601005911827087,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+81fe2a43-d6fb-41c9-9f51-60853be56e6b,0,0,0.05844851955771446,1,"Hello. Hello Hello. My weight loss up to 95. 95 और, और मेरे age 70 है तो I am not confidence about that कि weight loss होगा. काम को ली हैं Hello? मेरे सामने कुछ result means achieve करना चाहती हूं कम ..."
+6c4d5b2f-f492-483a-9e5e-ea43f3ed398b,0,0,0.03917314112186432,1,Yes. Yes. Yes.
+cca98058-5034-4a60-8afb-0c3a315b69d4,0,0,0.04334620013833046,1,"Yes you are. Hello, क्या मैं? और आ रही हो Are you that? Ok, how can you help me? Can you speak in हिंदी? Ok, Like Ok,"
+884b665c-0ac5-47b2-b119-4bf1bb199aa1,0,0,0.04662342369556427,1,"Yes, Yes, I don't want to take. Yes, sir. I want I don't want to go for this actually. नहीं, I think this is I thought this was free actually but it is paid I don't want to pay take any paid service a..."
+c8e595ec-0f66-4824-8a71-8a7483d63c9f,0,0,0.03988884761929512,1,Hello. You are from where? Hello? Hello.
+a3e2a105-21e0-45d5-9fe8-5efa65e02d15,0,0,0.0402560830116272,1,Hello. Hello Yes madam. Hello? Yes ma'am. I want to reduce around 10 kgs. How much time it would take Yes ma'am. Yes? Yes madam. Yes? No.
+57bd2a5c-28ee-46bd-a745-dfb61d9bb862,0,0,0.03923496603965759,1,Hello
+3fb9c36c-25e2-4a22-8bf2-4ebf5651e4dc,1,1,0.9600555300712585,1,To what mail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+bf378816-67ea-4938-8fef-ddaf7ed4a072,0,0,0.03910892456769943,1,Hello.
+61260dac-442d-407e-b8ba-4775d3d136c2,0,0,0.03909281641244888,1,Hello. Hello
+3ee9e5e3-e9f9-4e77-8e5c-e71f668fbe01,0,0,0.04036613926291466,1,Hello? What is better? What is the teleibit?
+bbcdc62e-0908-4f14-bda3-9d8df6ec46f0,1,1,0.96006840467453,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+0102b23b-7b91-4c89-9b8b-507c720a5b4f,0,1,0.8623770475387573,0,"हां, yes. Hello? I just saw an ad So am I speaking to an AI assistant or is it a हां, first I would like to know the plans and the cost associated with it. 40. No no what next after this 9 of plan? I ..."
+a25a17bf-c71e-4772-b576-9f5b358a9631,0,0,0.03917374461889267,1,Hello?
+df46cc43-6089-44c5-9514-8c3566dd92f0,0,0,0.03914492204785347,1,Yes? Hello
+aefdda49-094c-4616-8449-70f94d1f713d,0,0,0.03910240903496742,1,Hello hello.
+cb485fcd-1e0f-4f15-993b-eee83cbd0fef,0,0,0.03913234919309616,1,Yes?
+7fbb2b28-d3de-4a9b-ab7f-b0a27441e2cd,1,1,0.9600738883018494,1,"Your call being forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+892aaeb8-52b5-48a6-93f3-aa0494e1d10b,1,1,0.9600367546081543,1,Forwarded to voicemail. The person you are trying to reach is not available. At the turn? Please record your message. You have finished recording you may hang up.
+608ddc97-6bf6-4378-9337-c2d1016024c4,0,0,0.03917374461889267,1,Hello?
+eb03e9de-f3ec-4394-8a64-21feeb5a49e7,1,1,0.9600504636764526,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available At the tone, please record your message. When you have finished recording, you may hang up."
+4aca04f0-b9a6-4a64-bb4f-b7299b25ce66,1,1,0.9600977301597595,1,"The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording, you may hang up."
+c1810a94-eb01-4eab-9db3-79933172040e,0,0,0.03918928653001785,1,Hello hello
+b3b7f544-59a1-4fe8-af13-88ee18224031,0,0,0.03910892456769943,1,Hello.
+13c788e6-1039-4ad6-af02-53a296ee9c32,0,0,0.04046405106782913,1,"Yes? I am not able to speak right now, I am in a Meet. I will respond देता thank you."
+5bb81470-c1bc-4e2e-bf91-592a688dbd01,0,0,0.039514198899269104,1,"B,"
+0f61f5fb-7201-4af4-b43f-ed9d4c1ed283,0,0,0.04444253817200661,1,"Yes, Yes I don't want to talk to an automated chat book like I want the no person to talk to me. Anytime after ten today."
+48bdbe42-3c89-4b28-88d8-ce7824336b7f,0,0,0.039281994104385376,1,Hello? Hello. Hello hello
+bc0070cc-8b1a-41f7-973e-6436874f36e5,0,0,0.039349209517240524,1,Hello hello hello
+b6ef95a7-7844-4ca6-93d8-7ca47e4de28c,0,0,0.03917374461889267,1,Hello?
+085da0de-2224-4851-823b-6163fa44fa03,0,0,0.03919549286365509,1,"Yes,"
+19b4c813-537a-471d-8310-b06767a4735d,1,1,0.9600850939750671,1,"Call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+9d0e0528-8e08-4743-8eca-d96fb78e0b60,0,0,0.03910892456769943,1,Hello.
+3c658092-ac29-4097-b47a-eb88a0b70834,0,0,0.03917374461889267,1,Hello?
+8a529839-9302-4d29-8257-2ac45b852200,0,0,0.03909281641244888,1,Hello. Hello
+da565128-9e55-41b1-b6e3-936656a803c8,1,1,0.9601081609725952,1,Your call is forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+41934bb4-83ae-4768-83ef-1fff3184699f,1,1,0.96006840467453,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+267f35f6-570f-4f8d-b1cc-92b7ac9070e6,1,1,0.9600434303283691,1,"The person you are trying to reach is not available. At the tone, please record your message when you have finished recording you may hang up."
+24083568-0446-4158-bd65-c927d70c1cd0,0,0,0.03910892456769943,1,Hello.
+3eb2efd6-3067-4a81-8d13-6e9c01dcbd4d,0,0,0.03919890522956848,1,Hello? Hello
+1998fb5b-f54e-4a29-90eb-99f0bc2afe18,0,0,0.03913234919309616,1,Yes?
+a3c99094-3089-4b6d-bf67-7c815e0b894f,0,0,0.03910892456769943,1,Hello.
+2ad6d9a0-4f8b-48bf-a4a2-6a682f3dc992,0,0,0.04189946502447128,1,"क्रिया प्रिया,"
+276f77e5-23f4-414a-9414-33d2fdd1c30a,0,0,0.04469427838921547,1,Hello. The person you are speaking with has put your call on hold.
+9acfc492-0014-47d4-b192-c2fd71e70ad3,0,0,0.03910892456769943,1,Hello.
+d678817f-6f16-49f0-b341-3c120952793f,0,0,0.039714548736810684,1,"Yeah, this is रोहन speaking."
+b3175d74-cab3-4561-8f2a-7e4970c8fb97,0,0,0.03917374461889267,1,Hello?
+38cae5d1-dbc6-4cd7-a2e7-86976e2e5615,1,0,0.10550186783075333,0,Yeah. I like that there was doctor consultation and my cold store reduce the rate. You are operating from दिल्ली? And IIM at चेन्नई. I would like to know how it operates. I did not find any contact nu...
+23e0ec58-5450-44fb-972a-a798c57d9eb5,0,0,0.0393374040722847,1,Yes
+af7f5e94-9cf3-4be2-9dfa-e856ae4a7d65,0,0,0.039347290992736816,1,Sorry? Hello?
+3173804c-704f-41e2-b3ad-a6b044e5f2dc,0,0,0.03916894271969795,1,Yes.
+6318dfcd-8697-473b-b9bc-ae6c4b7ddff4,1,1,0.9600520133972168,1,"यह खा forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finish recording, you may hang up."
+62fc1bf4-a6ef-4a5f-b2a5-10b858bbe91f,0,0,0.03924064338207245,1,No.
+3afed6d1-293c-4f18-96f4-abc1221c717c,1,1,0.9600961804389954,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording, you may hang up."
+c00ca7f3-8e29-4f0d-9a74-85f30d6bfb45,0,0,0.03919549286365509,1,"Yes,"
+9756c4e5-5c28-4edf-80e5-0d272c201133,0,0,0.03910892456769943,1,Hello.
+102da085-403c-4fb5-8832-40344e7131d0,0,0,0.03927517309784889,1,Yes speaking.
+3f1d04c9-0936-4e52-bae3-9cf337910018,0,0,0.03909281641244888,1,Hello. Hello
+d5328256-6929-44ea-8a4a-b3fabb93a796,0,0,0.03913234919309616,1,Yes?
+6fee1149-dba5-49dc-96eb-8839008a1c94,1,1,0.9600796699523926,1,"Call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording, you may hang up."
+2986c254-2af1-4139-810f-72fdbc0c9aeb,0,0,0.0393374040722847,1,Yes
+ea96e609-2da4-4744-99ee-599394721cd7,0,0,0.03964054584503174,1,"Yes, मान लिया?"
+12db0c7f-fc18-4521-a23c-4998414748bd,1,1,0.9601176977157593,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the time. Please record your message. When you have finished recording, you may hang up."
+d9df459b-f33a-457d-81c2-5486cd177c44,0,0,0.04458959400653839,1,"Yes? Yes? I need more information on that. Time I still want to speak to a real agent please, I am available now,"
+e0d3ec0c-2e8e-4a41-a1e5-8932f9d9281c,1,1,0.960077166557312,1,Your call forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. You have finished recording you may hang up.
+4c0d30d8-d78d-454b-9fba-5563cf7ddb90,1,1,0.9600425362586975,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message when you have finished recording you may hang up."
+7d7d1618-e6fd-4119-9187-cb1b35c29bba,0,0,0.03914635628461838,1,"Hello? Yes,"
+33b5d064-3cec-4fb1-a777-ea592f010b4e,1,1,0.960098385810852,1,"Your call has been forwarded to voicemail. Person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+4001a88d-f35a-4c4d-9e1b-272634f06bce,1,1,0.96006840467453,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+281202d0-d0a8-4738-829f-dfd82b9b88f1,0,0,0.03966803848743439,1,"Hello. शारदा? Hello, Hello? Yes"
+24bcf856-5d01-4b4b-8053-499bc615aa03,0,0,0.03909766301512718,1,Hello. Hello.
+56e991bb-a89f-4d05-a7f3-56972f43bb22,0,0,0.04444075748324394,1,Hello. उससे बोलिए बस अरे हम बात बहुत नहीं समझ पाए तुम. गई थी हिंदी नहीं समझ पाए
+fce52acd-d802-4077-968d-907709c3e94d,0,0,0.039283912628889084,1,"Hello? Yes. Yes. Yes. Yes, sir."
+3f5ff0af-e8ef-4ae2-9739-ce0e1b638648,0,0,0.03987431153655052,1,"Yes. No, please don't call me. No, there is no specific reason."
+706a4077-5447-4f1a-ae3f-dfd0ad7ccd9d,0,0,0.03939645737409592,1,"Hello, हां. Hello? Hello."
+f1335131-e555-4978-882c-616527c010fa,0,0,0.03907902538776398,1,Hello. Yes?
+fe36b933-4dea-4880-beca-cee620b2d17c,0,0,0.039755795150995255,1,"Yes. Yes, Did not work out. Yes Yes? तो नहीं, नहीं,"
+4096533e-ce18-41b1-8eee-51ef7a96124b,1,1,0.9600695967674255,1,Person you are trying to reach is not available. At the time. Please record your message. When you have finished recording you may hang up.
+076ef946-51c0-467c-8b6d-4130e81acc18,0,0,0.05524003878235817,1,अल्रााबे में father बोलती है ना? कि पैसा दे दे बेटा को तू. दे देती है हम पैसा ले लिया हमारा. शून्य रुपए तो बीस हज़ार आ गए हैं तो यह काम कर दे सब देना. अब थोड़ा system है. Hello. Hello. हां हां ठीक है....
+0caad228-6e7b-4739-865e-3fc465d6f30b,1,1,0.960099458694458,1,Your call is for voicemail. The person you are trying to reach is not available. At the tone. Please record your message. You have finished recording you may hang up.
+f778b043-6b2a-4c4c-93b8-659c9b82b52a,1,1,0.9600933194160461,1,Your call is forwarded to voicemail. The person you are trying to reach is not available. At the time please record your message. When you have finished recording you may hang up.
+95caa262-4bbb-4d6a-9d13-ba12c8fd33fd,0,1,0.9575905203819275,0,I am unable to receive your call right now. Kindly drop a message after I will get back to you as soon as possible. Thank you.
+8750606e-a97b-4230-9dac-4a6291917faf,0,0,0.0393374040722847,1,Yes
+6783c65c-37a5-4413-88a2-18ac5e4f70f0,0,0,0.07285773009061813,1,कौन है? Why you are calling me? Why should I talk to you? Can you stop calling me? Nonsense? You look like a fraud company. Why could I pay to unone person? Before hand? What if you should take my mon...
+1ce5fbb2-9686-49f3-b4fb-449f35f8d979,0,0,0.03948848694562912,1,"Yes, please."
+c486385f-1f30-4969-a32b-0b7f1a5f9104,1,1,0.9600847363471985,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+dc9ea35e-fa56-40c4-8484-1f8b63854b5b,0,0,0.039129823446273804,1,Hello? No.
+b3a1b773-dcc8-4096-89ba-17248ec2f8a9,0,0,0.052058927714824677,1,"You are speaking? Yes, payment salary. No, I'm ok with that. I used to get gym but I am not able to wait. Loose my weight. Yeah please. Yeah, Ok, I am clear about it. I have already paid. Thank you."
+84d5c102-0c49-4ae3-9d88-2a4ff606b7fd,0,0,0.040655165910720825,1,"Yes, मैं Wildlogs are to reduce my weight till sixty kg. Yes I am. Yes I can"
+8dc4ccba-beb4-4990-a14d-ec579d8bb21c,0,0,0.044437993317842484,1,हां? Hello. मैं कह रहा था लोग अगर रास्ते में कहीं रुके तो और आप और काजू
+82225362-392d-4256-8560-f31781090c45,1,1,0.9601354002952576,1,"Your call has been for The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+eb678b61-9f26-46ef-a74c-38d68d5f365b,0,0,0.039281364530324936,1,Yes? 5 I paid
+b70c63b1-13e5-468a-bce0-025c5fd326ea,1,1,0.9600646495819092,1,"Your call has been forwarded to voice mail. The person you are trying to is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+5245b186-c4a5-4938-8203-7365162d4fbd,1,1,0.9600622057914734,1,"The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+6919560f-6dfc-4cc7-9f81-fda2360f39e2,1,1,0.9601005911827087,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+0b7c0e27-a6cd-400d-8e99-e0abc55c092f,0,0,0.03917374461889267,1,Hello?
+f8081e01-7999-42de-9f93-903affff6950,0,0,0.03910892456769943,1,Hello.
+b6e7ca49-26b0-4698-9d70-9fa11e413aac,0,0,0.03923496603965759,1,Hello
+e59e1df3-44da-470e-a5f8-6a3338d42218,0,0,0.05488350987434387,1,"Yes. I happened to bomb into your ad on Instagram. And I've seen the success stories तो I was thinking of giving but currently, I'm going to Yes, Yes, No. It did not work. Yeah sure. Yeah, No. Yeah, i..."
+d6c1a04b-a6cd-425c-8fb1-d6e76ae61d0c,0,0,0.03978283703327179,1,Yes? Hello? I can't hear you ma'am. Hello?
+1f1d4cbe-f5bd-4f2f-95d2-8dfe41667d89,0,0,0.03923496603965759,1,Hello
+76ff2bf4-5886-442c-9be1-7bcbd00a22be,1,1,0.9600508213043213,1,"Job voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up."
+ffc4f96e-aa09-4fad-9802-9b28ee82e838,0,0,0.03919890522956848,1,Hello? Hello
+20a017a5-293b-44b4-85f2-bc647add5763,0,0,0.0393374040722847,1,Yes
+81bf62e3-b4dd-4e8f-8563-b66305b85c3e,0,0,0.03933532163500786,1,Hello. Hello? Hello Yes?
+be37b09a-05c9-48c9-91fb-362605ba2081,0,0,0.042722418904304504,1,Yes I saw ad on Instagram. Need to speak to an executive before making the payment. 11:30AM.
+ef9c52bc-e2e7-4b59-8746-caf456930016,0,0,0.03929903730750084,1,Hello? Yes?
+39ce874c-cd16-4170-a53a-8f9f4d500ed5,0,0,0.04139658063650131,1,"Yes, You need to talk to someone in your team, a human. 6PM."
+d5300c9e-d35c-4173-9a1c-c27222978c88,0,0,0.03910892456769943,1,Hello.
+6ebe85e0-b896-431f-950f-3ca56b25705e,0,0,0.04193293675780296,1,"Yes, Actually I don't want to blackist because last 15 days before I already all test. Do all test. तो don't want to."
+5cd0d73b-9416-4abe-8688-c839dcb5271f,0,0,0.03923496603965759,1,Hello
+99f4b57e-c66d-47db-8ad7-3c31fbcb5084,0,0,0.24550795555114746,1,"Yes? I have high weight. And I wanted to understand why it is happening. Yes, Yes. Yes, they worked for me. I have lost weight historically, but I gain it back very soon. Yeah. या Can you share the de..."
+4972becc-b765-4640-8c35-f95a096698a7,0,0,0.039097242057323456,1,"Hello. Hello Yes,"
+c47024be-24ed-44f0-9576-2420dd87f7c2,0,0,0.0405021607875824,1,Who is this? Ok. How can you help me?
+08497e8f-7a65-4497-bfc5-ddbfa276e47e,0,0,0.039295583963394165,1,है ना?
+08ada34e-8674-4b38-8232-0dae3b410af1,1,1,0.9601005911827087,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+dceac430-4e0f-4e91-87c1-cd1f15ac7df8,0,0,0.03923496603965759,1,Hello
+7a6ffa06-c71f-46e0-adf9-2f103118c895,0,0,0.03923496603965759,1,Hello
+070e64f4-3de5-4895-ad7f-a4ffae80431d,0,0,0.03919774666428566,1,Hello? Hello. Hello.
+49cbd36c-9e38-4b7d-9222-80ae84dfd4f5,1,1,0.9579098224639893,1,Voicemail. The person you are trying to reach is not available.
+db6cc5b0-2aa3-4b14-855e-6ef137c219c8,1,1,0.9600847363471985,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+05c0205b-25db-47e8-bfa7-61eda7796dab,1,1,0.9600043296813965,1,You call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+1a8c024d-bc33-4ffd-b154-37901da10b51,0,0,0.04111194610595703,1,अरे Hello? हिंदी में हां हां राव number line में.
+8802e8cb-3610-417f-9644-76bfed515f4b,1,1,0.9600549936294556,1,"Voice voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+4b25f7b7-77c6-4428-bbd7-9f2099593085,0,0,0.039134323596954346,1,Hello. Hello?
+14273090-c061-429c-a3d4-b5ce954ebd83,0,0,0.04073501378297806,1,"Yes? Mister मेनन here? I wanted to know more details about it. How does the plan work? Yes, I would like to. Yes? Yes, I would like to. No, thank you. You have explained well. Enough. Thank you. Bye."
+1050aab5-c914-4d53-b6e6-b4c1cc17848b,0,0,0.04478444159030914,1,"Hello Yes? Please ask a real person to call me. I cannot talk to an AI voice. Right now, I can speak right now."
+113638c8-725e-463c-848c-32c1b45c36e6,0,0,0.03929871320724487,1,क्या?
+5043b37c-8a76-4576-b01b-4bd1011449a7,0,0,0.04321284964680672,1,Uber ही हैं मैंने कुछ और issue है. है. याद नहीं
+0da3fe07-617b-42f4-9179-f1c0b950b0e7,1,1,0.9600179195404053,1,"Voice mail. The person you are trying to reach is not available. At the tone, please record your message. You have finished recording you may hang up."
+a0f031f1-4a44-4a17-99ed-c8a59426f2a7,0,0,0.04398314654827118,1,"Yes, I wanted to be at eighty KG. Yes, Yes No. Yes, Yes I will wait and I will gather some feedback"
+95f31352-332d-4d23-be1c-ead4ca81f7cf,0,0,0.03913234919309616,1,Yes?
+ebd77b9f-751a-4724-8a18-bb375f71113c,1,1,0.5430400371551514,1,"PAN protection is now live on Airtel. For English, press one. हिंदी के लिए दो दबाएं. Please select the desired option or wait for us to repeat. For English, press one. हिंदी के लिए दो दबाएं. Please se..."
+4efe5128-74c9-4952-9401-1e04a6d2ea70,0,0,0.05153483897447586,1,जो मैं अगर invest करता हूं लेकिन शायद तो संजीव जी के बाद नहीं छोड़ जा गया है.
+9747a01c-105a-4ef1-ba2a-e2883b917fad,0,0,0.039170775562524796,1,Hello. Hello hello
+23d40dd7-6125-4097-8434-72eea19e8639,1,1,0.960061252117157,1,"Call over is voice mail. The person you are trying to reach is not available at the tone, please record your message. When you have finished recording, you may hang up."
+743c8227-e242-466b-8cc2-4c1b95dadd8d,0,0,0.04174768179655075,1,"Yes. Yes, Please let me speak to यूमन. Can we can you connect me with someone around seven thirty eight eight PM"
+e7f571f2-8914-4e12-ad10-ef10afb598e6,1,1,0.959969162940979,1,"Your call है. Ordered it's voicemail. The person you're trying to reach is not available. At the town, please record your message. You have finished recording you may hang up."
+a38109ab-258c-4fd3-9a85-0faa8f50d43e,0,0,0.0515374056994915,1,"Hello? Yes? Hello? Because if it's a doctor based program, what I saw, That is the first motivation and secondly is I want to lose weight because I had lost weight but now I am gaining again. So and I..."
+9555f33f-258e-44dd-8939-12a46ca23931,0,0,0.03910892456769943,1,Hello.
+2d0bdf62-afb1-4ebb-9318-b0de95878f8c,0,0,0.03992254287004471,1,Hello hello hello hello hello
+d2a4f970-5ffa-41de-895f-82524878b241,0,0,0.03978497534990311,1,Hello? Yes speaking. Can I speak to a human Thank you? Anytime after 02:00 today.
+b8235bf2-8602-489c-afc2-91f3b509e814,1,1,0.9600803256034851,1,Call has been forwarded to voicemail. Person you are trying to reach is not available. At the time. Please record your message. When you have finished recording you may hang up.
+609c71c2-971f-4357-ac59-27f6789a4837,0,0,0.04004039242863655,1,"From where? From where? I don't like it, thank you bye."
+041b3df4-d9b5-4ce7-b79b-af51a3ba5817,0,0,0.03910892456769943,1,Hello.
+4877876c-c918-4ed3-9d12-c565fe7c367f,0,0,0.039170775562524796,1,Hello. Hello hello
+d343cf33-6a9a-4c21-89dc-44fa227a3596,0,0,0.03992333263158798,1,Yes. I have to reduce 20 kilo Hello. Hello. Yeah.
+68f501a1-84d0-4414-a079-7b0245b69bfb,0,0,0.04356317222118378,1,"Yes, hello? I wanted to reduce fifteen kg. And I wanted the apart from the medical health I want somebody to guide me for the entitlement. Yes. Yes. यह No. I want more discount. No."
+eadb9649-f738-464d-95d5-7a9cdb1e3c8a,1,1,0.9600875973701477,1,Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+819e19ef-1499-4f74-af73-a2e76c09b7bd,1,1,0.9600693583488464,1,"Call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn? Please record your message. When you have finished recording, you may hang up."
+5112e984-85dc-4b3a-87d4-6fe8678ce967,0,0,0.03909875452518463,1,Hello No.
+ec2bb591-614f-420b-bd75-65a603310740,0,0,0.039773184806108475,1,Yes? I'm thinking about it. I'll get back to you later.
+7a5866c1-81b6-432f-baa5-aa1efcf9d081,1,1,0.960091233253479,1,"Call is forwarded to appointment. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording, you may hang up."
+1cf3f091-5897-4ee1-80c2-56c18a33dd7e,0,0,0.03916894271969795,1,Yes.
+d1637ae2-959a-4dda-9478-43543c567652,0,0,0.03976845741271973,1,Yes I am busy right now. I will call you later.
+703457af-4215-4071-8fc2-a614ad1f86f5,0,0,0.05331166088581085,1,"Ok. Tell you. My weight loss goals are to reduce my weight till sixty KG. बता सकते हो. No, I went"
+46ab7ce0-ea72-41de-a17d-7d3b64583c27,0,0,0.03997968137264252,1,"Yes, हां जी कैसे जी."
+39271989-d6d1-4820-b167-85ca3a33892c,0,0,0.03959285840392113,1,Get?
+b1969eb4-e779-42f8-a687-2a86bf9544f2,0,0,0.03916894271969795,1,Yes.
+3c310777-c555-48ad-ac83-fa5df67d1a1c,0,0,0.03916030377149582,1,Hello? Hello.
+848272ed-b93a-4e67-9d2b-37f5da18c908,0,0,0.03910892456769943,1,Hello.
+65c15296-c2cd-4f8c-8f3c-5bb1f8ba1ac0,0,0,0.04238143935799599,1,Who is this? No. Later on ma'am. We will decide I am driving right now call later.
+267dcb3b-1934-41b6-9111-2bfc5d6dc358,0,0,0.03918928653001785,1,Hello hello
+7cf184fc-264a-4790-be24-28c23eeeb600,0,0,0.039300765842199326,1,Hello. Hello hello hello
+90aa703b-443a-4944-a65f-68ad47b3b0ac,0,0,0.03929903730750084,1,Hello? Yes?
+6211ee99-88f0-472d-8f67-1e60a276c575,0,0,0.03910892456769943,1,Hello.
+b137e9a8-8370-46ee-8b89-b1e56ee94502,1,1,0.9600687026977539,1,"योग has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+ea6e79e4-db5e-471a-9259-48fc7d698f9e,1,1,0.9601005911827087,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+16c24e1a-45af-46a3-a785-c328462b2b78,0,0,0.03910892456769943,1,Hello.
+4b5d2e87-a67c-485a-9f9b-8ca82c697dcb,0,0,0.039915572851896286,1,"Sorry? Hello? Yes I want to reduce 20 cubic. Yes, No. Not right now. Yes, I will do after some time."
+b8552f44-84e1-4d6e-8b93-e83b76041316,0,0,0.03915615752339363,1,"Yes, Yes."
+e8c9d657-ebb7-42a1-b197-8b131a1676be,0,0,0.03913234919309616,1,Yes?
+638d756c-429b-499f-b3ce-c4cd7e66b9cd,0,0,0.04218285530805588,1,"Yes, Oh god. Can you please can you please remove me from your call list?"
+850fb8f6-d6f4-45c0-9524-ffc667a8f131,0,0,0.039134323596954346,1,Hello. Hello?
+63590c23-8f19-4465-987c-e079e52df9da,0,0,0.03915267810225487,1,Hello. Hello Hello.
+34fabf2e-a4e1-4f3f-bebd-0f4ae323780e,1,1,0.9600741863250732,1,Your call has been forwarded to voicemail. Person you are trying to reach is not available. At the turn? Please record your message. When you have finished recording you may hang up.
+eefdd759-564c-442e-ab6b-e8649656c924,0,0,0.03977179899811745,1,"Hello. Hello. Hello. Hello. हां yes? Hello? हां, hello. Hello? Yes?"
+33001655-55f5-4f7a-a766-b8fe888a2295,0,0,0.08024416118860245,1,"यह थूक No, I was planning to I did plan but I have seen that it is bit costly for me. So then I left it there. Not else now. Thank you."
+b423aeae-1891-4e22-bc07-5f92e31011a7,0,0,0.03914259001612663,1,Hello. Hello. Hello
+6638704b-f7e5-46db-9965-73e5b7da4015,0,0,0.03917374461889267,1,Hello?
+9e5b1f51-6e92-4b24-9e47-22147c8c51c7,0,0,0.039121828973293304,1,"Hello, Yeah."
+c883e6b6-406c-4aa1-b4cb-fe8a8ce20717,0,0,0.03909766301512718,1,Hello. Hello.
+20ab63e6-5e58-4b19-af14-56098e661e70,1,1,0.9601005911827087,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+fcd138e6-a1f4-4e43-944b-068c6add5525,0,0,0.03913234919309616,1,Yes?
+6c021a30-96bf-463e-9bfb-08e13c7fb6b3,0,0,0.06804008781909943,1,"Hello, this is hello. This is hello this hello this is Hello, this hello this hello this hello this hello this Hello hello this hello this hello this hello this is प्रिया Hello, this hello this Hello,..."
+52f1b22c-645a-4e6f-88e1-cf6ae64b15ac,0,0,0.039133794605731964,1,"Yes, hello?"
+879307f9-0b86-47eb-88e4-a76bd44de464,0,0,0.04006308317184448,1,Hello? Hello. आज drive करीस खोल ली तो
+fe2409d6-40e0-47e9-8edd-0231df289d64,0,0,0.03919549286365509,1,"Yes,"
+5706f231-a2ae-40e5-8480-638bd94c5c45,0,0,0.33987441658973694,1,"हां speaking ma'am. Tell me. चलिए कज. Hello, Well it's not for me exactly it's for my daughter Ok? So what is this? Test case, I just put my name and all the things. I am also over it, but only thing ..."
+723355cc-687b-4303-a6f8-72323a524f2d,0,0,0.03910892456769943,1,Hello.
+dc18a9c0-8db7-44fa-928f-7fc4b7259e4e,1,1,0.9600784778594971,1,"Has been forwarded to voice now. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+cdd4b079-da52-4c67-b46a-21fdb8edf526,0,0,0.039542000740766525,1,Hello hello. Hello. Hello. Hello.
+f2e19776-591f-4470-bef6-8a79f3ab9e07,1,1,0.9557910561561584,1,Hi sorry I am not able to take your call right now. Please leave your message and I will get back as soon as possible. Thank you.
+24977040-f69e-4e76-a8b2-e55746281d98,1,1,0.9599790573120117,1,"हां हंस forwarded to voice mail. The person you are trying to reach is not available. At the town, please record your message. You have finished recording, you may hang up."
+3e7388fb-1c7b-4b7c-b7f8-3419e8a4847f,0,0,0.03910892456769943,1,Hello.
+a4e50941-ec43-42f9-8465-3508cff043c2,0,0,0.03913234919309616,1,Yes?
+88eb45c6-2f5d-42cf-8095-ffa6e8498b06,0,0,0.03910892456769943,1,Hello.
+49c32977-e08f-45da-a628-a8a7370ceb2e,0,0,0.0392579585313797,1,"हां, hello hello"
+c7419199-d392-4f55-b7a8-038afc0b9770,0,0,0.044492896646261215,1,Hello. हां सो ठीक है. अरे बोल रहा हूं. हैं? वह hotel में अंदर मुझे भूल रहा एक पुराने वाले
+78cf57d2-5927-4b21-9fae-12b582953d3b,0,0,0.040581583976745605,1,"I am रौनक speaking. Ok. Yes, Proceed. Yes, please. Yes. I have already paid Same dear, bye."
+2bea3bad-15ad-4454-ab16-7fe0d384bf4f,1,1,0.960041344165802,1,"Forwarded is voicemail. The person you are trying to reach is not available. At the town, please record your message. You have finished recording, you may hang up."
+aec73dbc-3f14-4e58-8b24-b84c63413d5e,0,0,0.03929871320724487,1,क्या?
+01ed64bb-884e-4f90-b47c-7fd55f5ea7d8,1,1,0.9600404500961304,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. Atito please record your message. You have finished recording, you may hang up."
+9661025e-5ab2-4a5d-8030-d4d6c8272681,0,0,0.03948498144745827,1,"Hello, हरीों से?"
+71297828-5cf8-4a57-86e2-118313bf3e06,0,0,0.03913234919309616,1,Yes?
+5b70d01d-b8ab-47ef-bdfa-c9295b3cb620,0,0,0.03916894271969795,1,Yes.
+a8af9f30-336f-4796-9473-f57c294f59d0,0,0,0.03911517560482025,1,"Hello, yes"
+ae11181d-bbde-4ceb-8ed3-87c3789a485c,1,1,0.9600746631622314,1,"Call is forwarded. The person you are trying to reach is not available at the tone please record your message. When you have finished recording, you may hang up."
+1819d0d0-7783-4c74-8653-41fc60e348b7,1,1,0.9600577354431152,1,"Forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+eb6643c6-e7d9-4706-84c9-4585e3cb807f,1,1,0.96006840467453,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+a63ace4e-47f7-4da4-9ec1-4318fbc9b0d8,1,1,0.9600583910942078,1,"Forwarded to voicemail. The person you are trying to reach is not available. At the tone please record your message. When you have finished recording, you may hang up."
+bd1438d5-235a-403c-9cc8-d91fe668f142,0,0,0.03910892456769943,1,Hello.
+e4f8a7a5-30a1-4a69-8835-6af749b74d13,0,0,0.039169248193502426,1,Hello. Hello yeah
+971114f9-afbc-4fba-99bd-20260401e2ac,0,0,0.03921212628483772,1,"Yes, मुकेश?"
+84cb9c47-4087-4a35-b0c8-e89e33a516a4,0,0,0.0391901433467865,1,Hello. Hello? Hello
+9f998bef-3a68-434a-b684-8dd8a50f65b0,1,1,0.96006840467453,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+f6760389-c810-42c7-9798-2572ec532b73,0,0,0.03909281641244888,1,Hello. Hello
+f347351a-ed54-4226-908c-b5ada16706c6,1,1,0.9600847363471985,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+59d3fc0f-0db5-4c47-a6b3-7f76dd74c454,0,0,0.03913234919309616,1,Yes?
+ea166677-c17a-4191-bfce-393587e6ad4a,1,1,0.9601011276245117,1,Your call is to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+b1966e47-4919-4e66-b1f1-456096cdbcf7,0,0,0.03923496603965759,1,Hello
+73c3ebe9-bad4-431e-9caf-77628b441ce6,0,0,0.040236543864011765,1,Spark mobile में hello?
+1b535152-b95c-4462-a54d-0cbd3639143b,0,0,0.03910892456769943,1,Hello.
+7f87367a-33ab-49a4-86c3-6f6cf96e3d57,0,0,0.12980720400810242,1,"Hello? Hello yes yes. I tried to do to put through the payment 3 8 3 times but it failed. It was not login into my net banking account. It was coming, it was login out. After I put in my login details..."
+e67d1052-e248-4d33-af55-927714133df3,0,0,0.039451953023672104,1,Hello. Hello hello hello hello
+f213169d-40fe-4c7d-86f9-d2d16d7cf3e4,0,0,0.03910662233829498,1,Hello? Yes.
+7b3a33a6-7ffa-4a50-b772-3d9aa433c1b7,0,0,0.03921419009566307,1,Hello? हां
+750dfc05-c2c4-4937-a85d-46f597dc9880,0,0,0.04062424600124359,1,"Hello Metabolism, body metabolism. Yes No, No, Yes. It's ok. Yes, No."
+d6876596-89a5-4bd1-b1f5-f179d1bb3263,0,0,0.03923496603965759,1,Hello
+34662efa-f3c0-4a37-b987-d704e388b034,1,0,0.07867830991744995,0,The person you are trying to reach is not available. Hello. Hello Yes? Yes I want to know after this how much is the payment mode? What is the payment mode? More than this? अच्छा बस मेरा और कहोए कि I ...
+4f4143f7-446d-401a-8f9c-13bab3f1eaa4,0,0,0.039397742599248886,1,Hello. हां भैया?
+79617c31-82ca-41ea-a77d-fd097dd421a9,0,0,0.03910892456769943,1,Hello.
+0374c40f-6bf5-428d-a86a-12ac0d4b7f9f,0,0,0.03987152874469757,1,Hello. Hello? Yes. Weight loss 12 k gs. Yes. Yes. Yes. Yes. विवान दो minute बंद करते. Yes. एक घंटे में. हां जी.
+e8328cce-febe-4fd7-b938-afd976eb8ba1,1,1,0.9600877165794373,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up."
+6e183889-9c2f-46c3-8a1a-147f2344b9ec,1,1,0.960056722164154,1,"Your call being forwarded to voicemail. The person you are trying to reach is not available. Please record your message. When you have finished recording, you may hang up."
+ee153366-977e-440c-8366-2b8a7339b00d,0,0,0.03911116346716881,1,"Hello,"
+ccf5ae02-dd20-4f6d-95f2-3edc4fbdfaeb,0,0,0.2225661277770996,1,"क्या? Yes. Lose weight. क्या? Yes. Speak in English please. He has explained I want you to explain how it works specifically. No. What? Is included in your plan? Medication, supplements, exercise, wha..."
+1ea42bf5-d5f8-4040-a471-8cc9ed470d30,1,1,0.9581499099731445,1,Your call has been forwarded to voicemail. The person you are trying to reach is not available. Hello. Hello.
+24103a55-4244-407d-b016-4876d15ba42a,0,0,0.04250548034906387,1,Yes. Please arrange a call for me live person. I don't want to talk to AI facility. Tomorrow after 10?
+9a2b3c06-904a-4b36-aebf-4e07c20b09c2,1,0,0.07365711778402328,0,"Yes? Yes. Yes. Yeah, I have already taking the plans on some apps, and yes I am losing weight there also. But the profit is very slow. That is why I was looking for some other brand But I am finding t..."
+ab71473a-090f-4bbc-a99e-1f90c645f886,1,1,0.9600847363471985,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+48bba91f-d605-420b-98a7-3028b32cbcc6,0,0,0.039921119809150696,1,हां See
+e420c59e-a111-43de-9ab1-4e6c7f5b68b8,1,1,0.9600847363471985,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+0508bc8a-7628-4f8f-bbd1-26fde0985ae1,0,0,0.043386414647102356,1,"Yes. I was at exploreing on the Facebook where I came across us. Yes, I have tried my thing but thing has worked out. Yes. हां, yes. No, I want to know more exactly about the the मतलब do you give the ..."
+1d8fc312-9486-434c-972c-7dd7efd2f160,0,0,0.040058836340904236,1,"Hello yeah Yes yes. Hello? Hello Yes, No, I didn't have. Ok, I will get back to you. Thank you."
+457aa510-b12e-4c36-80ce-bbed620305b2,0,0,0.03931264206767082,1,Hello. Hello Ok. Ok.
+6894f473-2f71-46dd-ae09-c71988585bc1,0,0,0.03999513015151024,1,Free चलाकर. Hello?
+a66e5f21-1cbe-4e63-b4eb-972c24abb9d5,0,0,0.04251796007156372,1,Hello? The person you are speaking with has put your call on hold. Please stay on the line.
+2d81f622-b028-4d71-b0c8-16a5fb21e105,0,0,0.03929179161787033,1,"Yeah. Yeah, Yes."
+a63e50e8-a276-4166-8cb8-9228f6f86223,0,0,0.03923496603965759,1,Hello
+2d17258c-9498-45df-8248-b74e49566fed,0,0,0.03910892456769943,1,Hello.
+09d83e26-003a-4ece-959f-6e5687e97db7,0,0,0.039240650832653046,1,No.
+2d6b2653-0673-4496-bcfe-776ad6ab87f0,0,0,0.10309625416994095,1,The recipient's mail box is full. Please try again later.
+9ded65b6-b887-4f86-b841-3886b1b4f25b,0,0,0.03919549286365509,1,"Yes,"
+0a387afc-e19f-4194-b13f-ca5f2758b64c,0,0,0.03911919146776199,1,"Yes, No."
+c449d507-b747-40b1-8ee6-a7bf45a5e39a,1,1,0.9462567567825317,1,Hello. I thought since are doing the same on science and through so many programs but do you keep going on the things which may help me to lose my weight at my home only. But the thing is I am not gai...
+066fd8ab-a6a6-4f14-8e70-ae2a73caedf2,0,0,0.04100562632083893,1,"Hello. Yes yes yes. Yes, It is too costly man I cannot afford to. No my dear. I am a popper. Thank you."
+e7e02a8f-1ea7-4f82-ab05-c46c108b82ad,0,0,0.03913234919309616,1,Yes?
+4f596359-4da6-43a6-9b5b-40259bdd3313,1,1,0.9600875973701477,1,Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+ed6484ac-5daa-4a6a-ac35-8f0a393ee019,0,0,0.11134519428014755,1,"Yes yes hello I want to lose weight. But I cannot afford that money. I am looking for a bit lesser option. I just recently had a blood test. I took all the test. तो I'll Yeah, but how much do I pay fo..."
+75a6bb2e-beab-468e-8fae-eb4e363e442d,1,1,0.9600312113761902,1,"Call have been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+00ea74a6-dbf8-44f4-9265-3ca7ae5ae309,0,0,0.03913234919309616,1,Yes?
+48e003d9-acaa-417e-971f-6b628989d8ff,0,1,0.5901673436164856,0,"Yeah. Hello. I have given the details. But I need some time to make the payment. It's not about the plan, it's about the fund which I have at मेहर. Sort of funds so I need some more time to arrange th..."
+c637eb95-5d37-4480-a358-9c1937613bb0,0,0,0.039256252348423004,1,"Hello. जी? FR,"
+bcfa249c-2b4f-4d86-a1a2-fc5b8a1a6b4f,0,0,0.046202804893255234,1,His how can you help me? You help me with other things? Hello? Can you me today's weather? You tell me the time ना?
+de250017-832b-4152-b9d6-841a7775f67c,1,1,0.9600504636764526,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available at the tone, please record your message. When you have finished recording, you may hang up."
+2f41d632-bed0-445b-872c-14885600de88,0,0,0.03958556056022644,1,Hello. बता sun लो.
+19f11dde-4e1f-469d-89dd-6bde6804adc9,1,1,0.9601005911827087,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+e9af3317-c5b3-4b93-a3df-83dbea694c1a,0,0,0.03910892456769943,1,Hello.
+e7cc3685-b325-4fbc-8858-78882e92e66e,1,1,0.9599441289901733,1,Person you are trying to reach is not available at the tone please record your message when you have finished recording you may hang up.
+a96eb9d6-2f23-4bce-bbfe-575c8301c458,0,0,0.03955245018005371,1,मतलब Hello? Yes?
+54680458-5de0-4238-88e3-77364c19addd,0,0,0.03926016390323639,1,"Hello? Yes, tell me"
+fd0eb4aa-a80e-47ec-a8a1-d3b45b728253,0,0,0.04180131107568741,1,Paper है बंद हो गया उसकी वजह?
+0e9d3076-752c-4cb7-a4f7-5a5f4e7f01cd,1,1,0.9600855112075806,1,"Your call is being forwarded to voicemail. The person you are trying to reach is not available. At the tone please record your message. When you have finished recording, you may hang up."
+a7e12420-0493-4b9c-b120-e01cf44ae6d0,1,1,0.9600891470909119,1,"The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+d2329f38-4730-48d0-b054-96616cf5777b,1,1,0.9600400328636169,1,Forwarded to voicemail. The person you are trying to reach is not available. At the turn? Please record your message. When you have finished recording you may hang up.
+67db1817-123e-4297-921c-14810c937ee4,1,1,0.9601005911827087,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+448af874-e755-48ef-9095-54b7941faa66,0,0,0.04002061486244202,1,"Yes, Yes. Yes, Yes, Yes, Yes. Question I have. It is pricey for her."
+73c2ff85-b5a3-4001-9e41-37d57cea7547,0,0,0.03909766301512718,1,Hello. Hello.
+c0756793-b531-4f09-943e-f86dd4ba3122,1,1,0.8589515089988708,1,"Yes? I want to lose good amount of weight, plus I want to lose good amount of fat as well. So I have been a struggling to lose weight since yours. I lose weight and then I gain back. And now it's been..."
+be67616d-d2c5-417c-a1cc-fd66f609c3df,0,1,0.9442867040634155,0,Hi if you record your name and reason for calling. I'll see if this person is available.
+ce231dc3-9340-4b31-9899-eb27bd23d9a8,1,1,0.9600421190261841,1,"Your call has been forwarded to voice mail. The person you are trying to read is not available. At the tone please record your message. When you have finished recording, you may hang up."
+abf222fe-55a4-49a9-b671-f036396d2cde,0,0,0.03955370560288429,1,F.
+93ee8423-cba8-4275-890d-c04fcb510753,0,0,0.03909281641244888,1,Hello. Hello
+a49cfb10-5382-4fc3-b99c-cbfedf4b65e3,1,1,0.960091769695282,1,"Your call has been forwarded to voicemail. Person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may up."
+7484b826-35f5-440a-9257-f0ec354376ec,0,0,0.041391436010599136,1,"Yes? I thought you guys are also getting diets but I only check that it's only a consultation Yes, It did dot. Yes. Yes. Yes. Like to hold it for now. Right,"
+98847efd-07dd-4b18-a9d7-b86845fb6c91,0,0,0.03922993317246437,1,Hello. Hello क्या?
+fdd0bb48-fcb1-4161-b7c2-adce9169d7b6,0,0,0.03978130593895912,1,"Yes, No we have spoken. Yes, please. Yes, Yes. Not right now. Thank you."
+dc7da134-f279-462c-bf8a-678461d68d98,0,0,0.03957945480942726,1,"Yes. Hello, can I speak to somebody proper? But twelve thirty"
+c36511a9-01dd-47c5-bca1-b5c97adf85a9,0,0,0.0421750582754612,1,Hello. Yes Ma'am I am little busy right now I can't talk. I have some work to do thank you so much.
+914f11f9-aabb-47e0-8073-79a748889def,0,0,0.039349209517240524,1,Hello hello hello
+7eeafc77-94f2-4809-a1b8-7eb4eccc1e88,0,0,0.03909766301512718,1,Hello. Hello.
+9cb00d06-c8a1-4796-b79d-232eb0933351,0,0,0.03990701213479042,1,"Yes. Just call me after half an hour. Yeah, ok."
+932698b7-fdc7-4a3e-8ed9-c06778a5cd1b,0,0,0.03909281641244888,1,Hello. Hello
+947f9bf0-18c6-4e7a-8e5d-9a75047cc019,0,0,0.04813563451170921,1,"Hello. Hello. Hello. Hi. Yes? I did complete the payment. And I filled the form after completing the payment. And yeah. And about the plan, I am diabetic. I am carrying a lot of weight. I would love t..."
+99a68584-aaa4-4758-9d50-b0d9251ccf3b,0,0,0.03939654305577278,1,Yes? For अच्छे कपड़ेों for me.
+17bdd8fe-ae2b-4b99-9665-5bff386f1308,1,1,0.96006840467453,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+9e75c6d3-8db7-44af-b750-19c2bf0790ce,1,0,0.13221174478530884,0,The person you are trying to reach is Hello. Yes. Hello. Hello
+699649cc-bfd1-437a-b06d-d0ef8b6d1884,0,0,0.09479060769081116,1,"Thanks for calling वैभव. In a few short words, how may we help you? Ok, please hold. I'll be right with you. I'm sorry, they are not available to take the call. Thanks and good bye."
+4251961f-414a-449b-bc69-de32143a70c8,0,0,0.03917374461889267,1,Hello?
+7248a252-f1dd-4647-bb8e-cc1d277b462b,0,0,0.03919549286365509,1,"Yes,"
+da06f475-75ef-4920-b4ba-ca6d9e89d6e7,1,1,0.9600806832313538,1,"The person you are trying to reach is not available. At the turn please record your message. When you have finished recording, you may hang up."
+1ee6ea9f-7498-496a-9ad9-9d59967d94e6,0,0,0.04671400040388107,1,"Yes. Hello Am I talking to normal person? Basically I am doing my gyming, gyming I good regular go to gym and apart from that I walk nearly about 30 minutes daily. After that also, I am putting on wei..."
+d7c136f0-1e04-4acc-ac7f-2f9db08e59e9,1,1,0.9600812196731567,1,"Voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+7bd80833-af26-499f-bd27-7e2f90e330a6,1,1,0.9598259329795837,1,"You called Forward to voicemail. The person you are trying to reach is not available. At the turn? Please record your message. When you have finished recording, you may hang up."
+01f50e4e-779a-41cd-adb5-9d38eb9b6708,1,1,0.9601019024848938,1,Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+e10f0dea-be5f-4376-9df5-389e4a5e956b,0,1,0.886588454246521,0,"Speaking. I need to lose weight, I am obbiceen now the body it's becoming difficult to sustain and less energy. Certainly, Yes. I faced challenges of They worked for some time, but it was not sustaina..."
+970a75ee-6ed4-4d3c-9694-b29969025a00,0,0,0.048408057540655136,1,"Yes. So, I don't want to talk I want to talk to I want to talk to a live agent, not computer. Program. Sound system. Ok. Yes. Yeah, after तनु. 10:00 and 10:30 between 10:00 and 10:30, ok."
+67db9386-4771-484b-9ec8-ed4303ea738a,1,1,0.5359789729118347,1,I can't take your call at this moment. Please give a message. Thank you.
+a1284398-3063-4b40-a95b-25901d781dbd,0,0,0.03919549286365509,1,"Yes,"
+cb16e536-2c9e-4a79-b7de-cb7cdcde91e1,0,0,0.03908313438296318,1,Hello. Yes
+05f7d070-ae73-4d68-bbcd-b3a2e53600f0,1,1,0.9600444436073303,1,Forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+931b8770-eab7-4c82-a740-277cf708c8e2,0,0,0.03913234919309616,1,Yes?
+4b4cb2cb-e9de-4bf0-a431-5c957bbcc9da,1,1,0.9600539803504944,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+ffdb5059-7f13-433e-9794-81eb5709169d,0,0,0.04197830334305763,1,"Who are you? Let human call me. I I hate a है teeth. Thank you. Twelve o'clock. Yes,"
+00b74d13-b9a3-449d-8bb8-9db632d50012,0,0,0.04011392965912819,1,Hello? Yes Yes? किस साथ अबे हम कौन हैं ना अबे लोग?
+c6d475c2-7cc2-4118-8aaf-e903d934f503,1,1,0.96006840467453,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+6fe598b3-8c8a-482f-812b-09cf827aad6d,0,0,0.03923496603965759,1,Hello
+1963b610-869c-47f9-a356-d5be6d960e7e,0,0,0.03910892456769943,1,Hello.
+4beeeac5-70df-4e8b-8ba3-06f6873db8c0,0,0,0.05131400004029274,1,Hello? Hello हां जी बोल रही हूं. Hello? Actually I have to seen this in on Instagram But I am not understand what is the procedure of the मतलब क्या करते हैं असल यह समझ में नहीं आया guide पर करते हैं य...
+12428a02-e27d-44af-9e78-f528b2739d0a,0,0,0.03910892456769943,1,Hello.
+9dbf68e7-b9df-4081-b3a8-9ddce66710b3,0,0,0.042006101459264755,1,"Hello can you hear me? No, you are not."
+6cd94f05-93c8-449a-878d-f59fcc4caa17,0,0,0.04329177737236023,1,Yes Hello? आप you are calling from where ma'am? नहीं किया because हां I think it's on higher side and it's not a rocket friendly friendly for me. So I just that then and there I dropped the idea. Than...
+fd863e98-1d83-400d-b930-1f41b41d900c,0,0,0.03913935273885727,1,Hello? Yes
+a1c6fef4-8d62-4683-bf87-58b3b1412694,0,0,0.03910892456769943,1,Hello.
+372993d1-513f-4a7f-a757-03f77c5cedae,1,0,0.04376895725727081,0,Hi क्या. 5 please leave your mood. I'll give you later. Thank you. Bye.
+5ca75420-138d-4ec2-b7e6-ebab686f22da,0,0,0.03910892456769943,1,Hello.
+2f193f94-56e9-41ca-89f2-4ffc87de78d0,0,0,0.19004584848880768,1,"Hello Yeah, I am there, tell me. I need to know how you will be able to help? Nobody will make the payment without knowing the BYJU'S. Yeah. Yes, Forty feet doesn't work for you? I am asking what is y..."
+7fa2f725-96a8-43c0-82ca-164bf163d87a,0,0,0.04151495173573494,1,Can you call me a little bit later? Up at twelve o'clock. Ok. Yes.
+fbb9c2c0-1381-4c3b-b670-cc0ff0cb26ad,1,1,0.9600792527198792,1,"Your call has been forwarded to voicemail. Person you are trying to reach is not available. At the tone, please record your message. You have finished recording, you may hang up."
+1c9328c3-9626-4488-ad9d-2a3eb206f3ba,0,0,0.03910892456769943,1,Hello.
+e1d0e93c-f939-4078-9d2a-6b9d0dd6870b,0,0,0.03929340839385986,1,Hello. Hello who is this?
+6a5a4fd0-eeeb-4baf-b05c-6f6c5ded6f3c,0,0,0.03952759876847267,1,Who is speaking?
+849e6b74-12b0-4502-93cc-e1722900bd36,0,0,0.03923496603965759,1,Hello
+22358119-6edd-4650-9e26-5e26a8ae68c1,0,0,0.03924565017223358,1,हां ठीक है hello?
+99220be0-de96-4338-a8bd-e59cac87eada,1,1,0.9600199460983276,1,"Voice mail. The person you are trying to reach is not available at the tone please record your message. When you have finished recording, you may hang up."
+62c05dea-4f0c-4013-a839-ec5d82fa5c9e,0,0,0.03910892456769943,1,Hello.
+06e11fa2-9426-4cce-9a7e-122b8d655531,1,1,0.96006840467453,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+54537d39-aeff-49d1-8475-05349a56acc5,1,1,0.9600425362586975,1,क्यों call forwarded voicemail. The person you are trying to reach is not available. At the turn? Please record your message. When you have finished recording you may hang up.
+ec3f3507-3597-4051-9f17-8cd237b9d0e0,1,1,0.9600679278373718,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. You have finished recording, you may hang up."
+4d148255-66eb-4247-90bd-39a4260dc89a,1,1,0.9600557684898376,1,"Voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+54ee0fce-afc4-4f26-b25a-0f34e46765ef,1,1,0.9601081609725952,1,Your call is forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+96b65f50-aa1f-4920-8845-232d6513d463,1,1,0.960063099861145,1,The person you are trying to reach is not available. At the turn? Please record your message. When you have finished recording you may hang up.
+6bf9243b-615f-4b0e-a909-47f95a4e5bf4,0,0,0.03919506072998047,1,"Hello hello. Ok Yes,"
+2fc999e5-87c5-474d-bc54-ecde7593f1d5,0,0,0.039174556732177734,1,"Hello. Yes Not interested,"
+faf06933-bca4-4a03-86d8-37a183e7afdf,0,0,0.045936960726976395,1,Speaking. Madam वह जो test आप उसमें करा रहे हो ना वह already पहले कराए हुए हैं. Ok. As soon as possible. जल्दी कराना. Ok.
+8c3f582d-f12a-4b6a-9300-3b8aab4c72f7,1,1,0.9601005911827087,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+15fed362-ee4b-4b8c-8b9f-a5a8785220d5,0,0,0.19908307492733002,1,Hello hello First I would like to get more details before confirming just a payment right so so I don't have any details to understand what exactly the plan and everything. So if you can share me the ...
+4d21ab42-22ef-4141-8ef3-9253c67a05bc,0,0,0.05019615218043327,1,"Hello, Yeah. Hello Yeah, I would want to discuss a personalized plan. Yeah, things don't work because I we can wait back. I have already done the blood test and I have already have the reports. So the..."
+aaecd08b-9cbf-4186-b11a-cd9be7ddd82a,0,0,0.03943641483783722,1,Hello? Hello? Hello
+a879e8c0-49d5-48af-98e4-c9f3d0f29cca,0,0,0.03961524739861488,1,Yeah sorry who is this? Hello? Hello
+010c105f-04b6-4b4b-9557-42eccc2d9f07,0,0,0.2934718132019043,1,"Yes? I thought this was some kind of a program but this is a more of a blood test initiative and a consultation which I am not interested in. Well, you guys should have you know got in touch with me p..."
+d94f1ec6-9578-4311-9acb-806be73d80e7,0,0,0.03979054093360901,1,Yes. Yes. Yes. No. No. Yes? I've already made the payment.
+9dfaa485-a92b-473a-8158-5e71946ed3d8,1,1,0.8000877499580383,1,Your call has been forwarded with a voice. Hello.
+389528a7-9cfe-43b1-ac08-2a23ef3e8c73,1,1,0.9600889086723328,1,"Your call has been forwarded to voicemail. The person you trying to reach is not available. At the tone. Please record your message. You have finished recording, you may hang up."
+71ac77e7-0b10-4e6a-9bd0-70602ced75b2,1,1,0.9599654078483582,1,Person you are trying to reach is not available. At the please record your message. When you have finished recording you may hang up.
+2afa07bc-52b5-4ac1-9095-369e02a2e9bf,1,1,0.9600577354431152,1,"Forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+bcc2931a-196c-4c44-8fab-da3b967d396f,0,0,0.039170775562524796,1,Hello. Hello hello
+50575d78-bde6-4a4b-9631-24a9310e68b6,0,0,0.04183093458414078,1,"क्या? Hello, Yes, I would like to talk to a human being Later on not now. Sunday. 4PM."
+4a0a94b5-82a0-4f05-b66b-cb3940de3434,0,0,0.03917374461889267,1,Hello?
+fab60098-50e3-42a5-8fac-54a17b7a32c8,0,0,0.04596048966050148,1,"Hello. Yes फिर. Hello? I'm not sure, I mean, I just need some time to think about it. So, let me just consult my doctor and then get back. Yeah, please do. Ok, Sure. Yeah. Thank you."
+58044fca-037c-42fa-9bb2-fda6abdf94b8,0,0,0.04518244042992592,1,क्या? हां. बोलिए. क्योंकि health issue है इसलिए weight loss करना.
+d42ddd1c-55ef-4e13-beb9-68b12ce8be66,0,0,0.03909281641244888,1,Hello. Hello
+5f1d51ef-9bd1-4028-a8ae-7ce9ad87989f,0,0,0.03916030377149582,1,Hello? Hello.
+63e56542-ff0f-409f-bfc7-cca46cc07f12,0,0,0.06118122860789299,1,"Yes, Are you not a major voice? Yeah, if I need help I will reach out to correct. Thank you. अच्छा Thank you."
+91cd49fa-c72e-4a27-9c5d-a9e026008b7c,0,0,0.03910892456769943,1,Hello.
+5176eb78-6cde-498c-90b8-6e6200999b4e,0,0,0.03924064338207245,1,No.
+b220be5c-4a5e-47c2-8dc6-2e32f7dba905,1,1,0.9600549936294556,1,"Voice voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+b49cc2ae-213a-48e6-8175-999eaefe990d,1,1,0.9599949717521667,1,"Call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have sent a recording, you may hang up."
+8d63de0a-94c5-4185-99de-30dd63d03639,1,1,0.9600847363471985,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+9283766b-3784-4166-b46b-b940de15ac76,0,0,0.03909281641244888,1,Hello. Hello
+114c97ef-40ae-4b19-b8c4-f826e293484a,1,1,0.9600986838340759,1,"Your call will be over your voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up."
+bf569f92-f347-4f5d-a4f7-e410120585cc,0,0,0.03927213326096535,1,क्या फिर?
+10a043e3-197b-4bf0-b0a9-7d0471d80a30,0,0,0.03968842327594757,1,Hello? Hello? Hello? Hello
+269fbaee-6a10-4895-87d8-6c817705cbe7,0,0,0.039768099784851074,1,Yes? As of now I can't talk we'll talk to you later. Thank you.
+3b3f89a6-1dc5-4c41-9813-2e00f13d7d89,0,0,0.054283879697322845,1,"Hello yes Yes you are, Yes Yes. It did work. I lost quite a few amounts of weight. Like around fifteen kilos but then I gained it back again Last time we felt like there was this hormonalal problem an..."
+1b5add78-5c48-4ba8-a3d8-64f5bf5e2248,1,1,0.9599940776824951,1,"Forward forward it to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+c3c55b68-dcd0-40fc-bfcd-e542d65a94ab,0,0,0.03961142152547836,1,You are from? Yes?
+c278c91e-571a-4d8b-af8a-dae82c5abf98,1,1,0.9600685834884644,1,Call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn? Please record your message. When you have finished recording you may hang up.
+3bd364fa-0fe0-4fdb-a0d6-90489ac0e116,1,1,0.9600877165794373,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up."
+f164c1ba-ef08-45af-9716-6e3e69382f0d,0,0,0.03963911160826683,1,Hello. Yes hello कुछ ना Which plan? Which plan?
+a3fbef3e-2cb4-4e24-8859-03f679504a4b,1,1,0.9600850939750671,1,"Call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+65051101-451c-4455-94f3-06ad0ef8dce2,0,0,0.03982105106115341,1,Hello hello? अनुभव professional है.
+e0b15347-50d3-4545-b5f0-5f59f222ec25,1,1,0.9601019024848938,1,Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+46794f4b-26c9-42e6-b926-2de92214bb86,0,0,0.03910892456769943,1,Hello.
+b4bb1594-fd90-48a2-87bd-155261665eb1,0,0,0.040883973240852356,1,Yes? This is not the right time when I am occupied I will connect to it elevate now later. Thank you.
+7d86ad9d-787f-4ba2-bc88-2fc329b55339,0,0,0.03909512609243393,1,Yes? No.
+85870228-a4b5-470f-bbaf-518aac3eb385,0,0,0.04324481636285782,1,"Yes? Nano claam. बहुत plan होता है. Sorry, मैं, can you my wife might develop center. Last"
+53e497e1-f685-43ff-b536-81b9a470155f,1,1,0.9600379467010498,1,"Is forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+2d2199b1-3492-4396-959b-5ebe7d2ed7b2,0,0,0.03968945890665054,1,मतलब hello hello hello Yes?
+3e17d56d-c2b0-43c0-b6cb-a29bbca685ff,0,0,0.03926630690693855,1,"Hello, this is"
+ac5c58ac-43c7-48cb-a765-23805fbb1c81,0,0,0.057068243622779846,1,"Yes, yeah tell me. Hello, can you hear me? Yeah. Ma'am, your voice is breaking. Hello? Yeah ma'am, tell me. Weight loss goal just lose the weight. Because I am right now hundred and 32 something odd w..."
+29bd689e-deaa-4cc9-b442-a2f4e82c20c6,0,0,0.03913234919309616,1,Yes?
+ec7f11dd-9a3b-4e8f-bb88-9e7743d50701,0,0,0.03913234919309616,1,Yes?
+c893d077-644a-460d-8081-d4ccbf44a1ea,1,1,0.96006840467453,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+1f08acf0-2409-45c1-be8e-a81373276e2c,0,0,0.03910892456769943,1,Hello.
+95d15c13-42fe-4a68-abe7-7630f3e1125c,0,0,0.03907901793718338,1,Hello. Yes?
+278f58ba-2a15-4ab2-9a28-aa8861e809d3,0,0,0.03910240903496742,1,Hello hello.
+55a570cb-579f-4c24-99bf-c82f4d9ce367,0,0,0.3236474096775055,1,"Hello. Yes? Ok, weight loss goal is fifteen kg basically from hundred kg to eighty five kg and I did not complete the payment because I don't use the methods that you listed up there. तो I can either ..."
+546e4f94-d240-4619-8dd7-a8ed86d421dc,0,0,0.043791264295578,1,Hello. Hello. Hello. I have already paid the payment but I didn't received any notification from you. No.
+62fae490-aab3-4648-b1ed-d74f989d4a22,0,0,0.03917374461889267,1,Hello?
+8d670b27-3e4d-4185-a798-f494d99e3dbd,0,0,0.04075324162840843,1,Hello. Hello Ok. Weight loss and PCOS management. No. No. I've already paid for 1 plan.
+0cdf4083-7012-41fa-ac78-9bdd4f8b346a,0,0,0.03910892456769943,1,Hello.
+207599ee-5dc4-496e-a353-7975d883ced3,1,1,0.9427326917648315,1,Your call has been forwarded to voice
+9960dc51-e960-414e-82e4-6f9cc70c6476,0,0,0.03934081643819809,1,Yes? हां sir
+531acffc-d9ea-47cf-aa50-ab02a0665809,1,1,0.9600847363471985,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+e54c0b22-8f46-4a5d-850a-8c5c2de88dfb,0,0,0.03935614600777626,1,यही?
+bd9c036b-86fc-4be8-af24-9e0896020885,0,0,0.03910892456769943,1,Hello.
+f67d7b4f-bb02-45e2-965a-59588024ffef,0,0,0.04207726940512657,1,Yes. अरे कोई नहीं मिल रहा है hello? Payment process money हो रहा है. नहीं. Thank you.
+da26ff46-c141-4c59-800c-7d43b0af1399,0,0,0.03920867666602135,1,Hello? या
+f3c2364b-d5af-49ca-8109-4500eee28bfa,0,0,0.03924064338207245,1,No.
+00fec783-ce3e-490d-91be-a9b100a5507f,0,0,0.03923496603965759,1,Hello
+57cb2503-20fa-4014-a6dc-0f56ce1453ad,1,1,0.9214057922363281,1,Your call has been forwarded to voicemail. है ना?
+623999e3-9660-4f9d-b83a-2e35aa99faf1,0,0,0.03919890522956848,1,Hello? Hello
+d084f66c-af8a-47c7-bc16-4b029bf51238,0,0,0.03919890522956848,1,Hello? Hello
+a7d36716-25c5-4d5b-8607-263bc72d3592,0,0,0.03914635628461838,1,"Hello? Yes,"
+957abd0c-f905-4a24-93f0-bf7b031b3fb7,0,0,0.03910892456769943,1,Hello.
+06089895-2a8d-466f-97e4-c9a243be1e3a,0,0,0.03913234919309616,1,Yes?
+17d2a799-9faa-48d1-a34a-aaa7e5feb3e1,0,0,0.040058258920907974,1,Hello hello Hello? बस AI generator.
+b6e0e339-c172-4c92-9d2c-ebe6f83cc0c6,0,0,0.03913234919309616,1,Yes?
+9f249b4e-2ffd-4598-aab1-24174eb6a47d,0,0,0.039451953023672104,1,Hello. Hello hello hello hello
+61ef5e22-b719-4c7e-975b-08d69d166ac7,1,1,0.9600622057914734,1,"The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording you may hang up."
+43f46975-0d6e-43d9-9577-cd657303f5f3,0,0,0.03910892456769943,1,Hello.
+33a4d3de-61d8-4b6d-82f7-ddf618db220e,0,0,0.03923496603965759,1,Hello
+984388ff-7a30-46c7-92d9-988523e0f0bb,1,1,0.96006840467453,1,"Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the turn, please record your message. When you have finished recording, you may hang up."
+3c07b739-d6d4-4316-bcca-435b18f0bdf4,0,0,0.039272405207157135,1,Hello hello Hi. Hello?
+6f81181e-fed6-458d-b443-a221ad06fb7e,0,0,0.0393374040722847,1,Yes
+15c30530-27e5-4d6b-bb3a-84188e008f6c,1,1,0.8796491622924805,1,"Hello. Yes? Hello? I have made have made the payment. I have made the payment through GPay when I was trying to enter my name, email ID and mobile number, it was not going to the next screen. Thank yo..."
+1612c15d-5a3b-428a-9c61-13f6edb9a33f,0,0,0.03942972421646118,1,Hello. ठीक तो ले लूं?
+a4c708ba-5c5c-4e11-80e4-e08a6c44e11e,1,1,0.9600536823272705,1,"Forward it to voicemail. The person you are trying to reach is not available. At the town, please record your message. You have finished recording, you may hang up."
+634f333c-c62c-423a-836b-9dcc827aaab7,0,0,0.03910892456769943,1,Hello.
+fd5a4398-2ea3-4ed5-ab8a-c1255c0df76b,0,0,0.03915362060070038,1,"Hello? Hello. Yes,"
+da72bfcd-51ef-4a34-a9a5-452f81eeb887,0,0,0.03910892456769943,1,Hello.
+c5ada38f-90e6-4910-8643-f2afe2163fd6,0,0,0.03909281641244888,1,Hello. Hello
+3efeb7ce-bbfb-4493-9e73-4adc7b31fa98,1,1,0.9600646495819092,1,"Call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+6147c05d-b684-464f-9772-5194bc9c894e,0,0,0.039665646851062775,1,देखने
+76abe800-5e4b-463e-ba71-673fb156d552,0,0,0.03919890522956848,1,Hello? Hello
+3ffd17a5-8091-462a-a25f-65d2e4d55ddc,0,0,0.03910892456769943,1,Hello.
+08d4f8fb-35da-4878-8e98-2bfbe68d3912,0,0,0.03916894271969795,1,Yes.
+0129f924-127c-4ce8-80a5-ed34fa2e5219,0,0,0.11729944497346878,1,"Yes. I want to lose weight. Yes, I lose weight and again I will gain weight. Ok. I am 35 years old. He is Albert now he is available in हैदराबाद? Yeah, Will they come and collect the sample from the h..."
+8f9ef162-41e6-4d35-92b3-0fbdf0139b37,0,0,0.04098842665553093,1,"Hello? Yes? Hello, yes hello? Hello hello How much is the payment? Yes, Yes, yes Yes. Yes No, No. Right now no, maybe after couple of weeks, Can we reach on the same number?"
+05afd9b1-d561-4dde-b627-2c9be4e55e22,0,0,0.29772868752479553,1,"Yeah, this is रोहन speaking. So I have a waiting to attend till coming three months. I was looking to lose some weight good in the photos. Ya show. I was consulting a local doctor before this but I di..."
+9ee5d0ad-4aea-4448-8df5-ceb5eca18616,0,0,0.03914635628461838,1,"Hello? Yes,"
+4d88c4e3-37dc-4a8a-9fa2-06b428b44d78,0,0,0.03910240903496742,1,Hello hello.
+cf2ef98b-abd0-47aa-aa1b-0942fbfe8d83,0,0,0.039112746715545654,1,Hello. Yes Hello?
+00adb986-7f8a-4830-b88a-cadcdeef0e62,1,1,0.9600812196731567,1,Your call voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+73284c03-b2b1-48d7-ab86-05dfe1c8c69a,1,1,0.9600847363471985,1,"Your call has been forwarded to voice mail. The person you are trying to reach is not available. At the tone, please record your message. When you have finished recording, you may hang up."
+0afb41e8-caf1-451e-8e34-e1b07f943730,0,0,0.03917374461889267,1,Hello?
+114f2428-5169-4a0e-9ba7-9478be6d22e5,0,0,0.03951216861605644,1,"Yes? हां, I'll talk to you later. Thanks."
+a9ee8d53-c3c8-491e-9219-9435e6d35c0d,0,0,0.03910892456769943,1,Hello.
+131b4c1a-ad28-42f2-9805-2f81c4786bf4,0,0,0.03924064338207245,1,No.
+403f398b-b97a-4882-aed2-c0905a99de36,1,1,0.9600513577461243,1,"The person you are trying to reach is not available. At the turn? Please record your message. When you have finished recording, you may hang up."
+b8bb9d12-219c-4e5c-9806-7971e7b6333b,0,0,0.03911874070763588,1,Hello yes?
+9cfaf4fb-8861-4cca-b916-c3131f83be1b,0,0,0.03921458497643471,1,हां. Hello hello
+858f50bb-a6a0-4f59-a77d-b8ffbc52e3df,1,1,0.9579098224639893,1,Voicemail. The person you are trying to reach is not available.
+a7d2b04b-02d2-4b1f-ad36-ffa1515a52f0,0,0,0.03909281641244888,1,Hello. Hello
+8bd7bd02-d380-4405-abe2-7d4c29a157cc,1,1,0.9600792527198792,1,"Your call has been forwarded to voicemail. Person you are trying to reach is not available. At the tone, please record your message. You have finished recording, you may hang up."
+54df4442-33cd-4040-b34d-827052743413,0,0,0.03909281641244888,1,Hello. Hello
+cb018540-54b6-4e63-b139-78e889db4d87,0,0,0.03913353383541107,1,Yes? Ok. Hello.
+ed4788ed-dbc8-4ce6-bcbd-47cb8473d386,0,0,0.039732519537210464,1,"Yes, No. Not really. Yeah please yes please. Yeah, No, I like to proceed."
+784146f6-47b1-4717-9184-7e78bad94c42,1,1,0.9600945115089417,1,Your call been forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+6d2bb049-dadb-497c-a98e-b616e174740e,1,1,0.9517196416854858,1,Hi this is प्रदीप here I am unavailable at the moment Please leave a message so I can call you back. Thank you.
+0c5732bf-677a-4c13-af48-200f1bc066c7,0,0,0.039592623710632324,1,"हां जी,"
+b854e827-1b2e-49f5-bcc3-3236c7c92779,1,1,0.9601019024848938,1,Your call has been forwarded to voicemail. The person you are trying to reach is not available. At the tone. Please record your message. When you have finished recording you may hang up.
+7a2890ff-883d-4797-a201-9761c7d27b4e,0,0,0.03923497349023819,1,Hello
